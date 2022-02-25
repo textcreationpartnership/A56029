@@ -1,0 +1,1341 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proposals for a national reformation of manners humbly offered to the consideration of our magistrates &amp; clergy : to which is added, I. the instrument for reformation : II. an account of several murders, &amp;c. and particularly a bloody slaughter-house discover'd in Rosemary-lane ... : as also the black roll, containing the names and crimes of several hundreds persons, who have been prosecuted by the society, for whoring, drunkenness, Sabbath-breaking, &amp;c. / published by the Society for Reformation.</title>
+            <author>Societies for the Reformation of Manners.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 104 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56029</idno>
+            <idno type="STC">Wing P3725</idno>
+            <idno type="STC">ESTC R4427</idno>
+            <idno type="EEBO-CITATION">12246907</idno>
+            <idno type="OCLC">ocm 12246907</idno>
+            <idno type="VID">56976</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A56029)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56976)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 875:33)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proposals for a national reformation of manners humbly offered to the consideration of our magistrates &amp; clergy : to which is added, I. the instrument for reformation : II. an account of several murders, &amp;c. and particularly a bloody slaughter-house discover'd in Rosemary-lane ... : as also the black roll, containing the names and crimes of several hundreds persons, who have been prosecuted by the society, for whoring, drunkenness, Sabbath-breaking, &amp;c. / published by the Society for Reformation.</title>
+                  <author>Societies for the Reformation of Manners.</author>
+               </titleStmt>
+               <extent>[2], 35 [i.e. 31], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Dunton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"A black roll ..." appears to be the first report of the Society; the publication of a black list apparently became more or less of an annual undertaking. cf. G.V. Portus, Caritas anglicana ... [1912], p. 251.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Social life and customs --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56976:1"/>
+            <pb facs="tcp:56976:1" rendition="simple:additions"/>
+            <p>PROPOSALS FOR A <hi>National Reformation,</hi> OF MANNERS, Humbly offered to the Conſideration of our MAGISTRATES &amp; CLERGY.</p>
+            <p>To which is added,
+<list>
+                  <item>I. The <hi>Inſtrument</hi> for Reformation.</item>
+                  <item>II. An Account of ſeveral <hi>Murders, <hi>&amp;c.</hi>
+                     </hi> and particularly <hi>A Bloody Slaughter-houſe</hi> diſcover'd in <hi>Roſemary-lane,</hi> by ſome of the <hi>Society for Reformation,</hi> as the ſame hath been Sworn before two of Their Majeſties Juſtices of the Peace.</item>
+               </list>
+            </p>
+            <p>AS ALSO <hi>The Black Roll.</hi> CONTAINING The Names and Crimes of ſeveral hundreds Perſons, who have been proſecuted by the Society, for <hi>Whoring, Drun<g ref="char:EOLhyphen"/>kenneſs, Sabbath-breaking,</hi> &amp;c.</p>
+            <p>
+               <hi>Publiſhed by the Society for Reformation.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENSED,</p>
+                        <closer>
+                           <dateline>
+                              <date>
+                                 <hi>Feb.</hi> 12th. 1693/<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>.</date>
+                           </dateline>
+                           <signed>D. POPLAR.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Dunton,</hi> at the Raven in the <hi>Poultry.</hi> MDCXCIV.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:56976:2"/>
+            <pb facs="tcp:56976:2"/>
+            <head>THE PREFACE</head>
+            <p>
+               <hi>ALL men agree, That</hi> Atheiſm <hi>and</hi> Profaneneſs <hi>never got ſuch an high</hi> Aſcendant <hi>as at this day. A thick</hi> gloomi<g ref="char:EOLhyphen"/>neſs <hi>hath overſpread our</hi> Horizon, <hi>and our</hi> Light <hi>looks like the</hi> Evening of the World. <hi>Inſomuch that all thoſe great</hi> Works <hi>and</hi> Wonders <hi>which God hath wrought out for us, appear but like</hi> Walking-Trees; <hi>although the eyes of the</hi> Blind, <hi>and the Ears of the</hi> Deaf <hi>have been</hi> miraculouſly opend <hi>thereby, and that the</hi> Lame <hi>hath been made to</hi> Ariſe and Walk.</p>
+            <p>
+               <hi>Yet for all this,</hi> Impiety <hi>abounds, even after our angry God hath</hi> ſhaken the foundation of the Earth; <hi>and that he hath hereby, ſo loudly called on the</hi> Chriſtian World, (<hi>to</hi> this Nation <hi>and</hi> City <hi>alſo, in a more eſpecial manner</hi>) <hi>to</hi> awake <hi>from deep</hi> Slumber, <hi>and to</hi> a<g ref="char:EOLhyphen"/>mend <hi>our ways, by an</hi> Univerſal Reformation, <hi>of our</hi> Lives <hi>and</hi> Manners, <hi>and not to imagine</hi> Jamaica <hi>and</hi> Sicily, <hi>were</hi> greater ſinners than others, <hi>for</hi> unleſs we repent we ſhall all likewiſe periſh.</p>
+            <p>Theſe ſad conſiderations, <hi>have compelled us to appear in the publick face of ſo many</hi> diſcouragements <hi>on every hand.</hi>
+            </p>
+            <p>
+               <hi>We believe no unprejudiced perſon, (which conſiders aright) will</hi> miſtake <hi>our end herein, or ſuggeſt what never entred into our thoughts: For we are not ſo opinionated of our ſelves; as preſumptuouſly and arrogently to</hi> Dictate <hi>to our Honourable Magiſtrates and Clergy in the Adminiſtration of the</hi> Civil and Eccleſiaſtick Government, <hi>which God hath entruſted unto their</hi> conſciencious Care and Managment, <hi>by thoſe methods which their mature</hi> Judgment <hi>and</hi> Wiſdom <hi>can</hi> Dirct.</p>
+            <p>
+               <hi>But our intention in this</hi> publick appearance, <hi>is, in the firſt place, to</hi> repreſent <hi>ſome of thoſe</hi> Fountain-heads <hi>which are the</hi> Scourſe <hi>or</hi> Ori<g ref="char:EOLhyphen"/>ginal <hi>(more eſpecially) of thoſe</hi> moſt palpable Evils, <hi>which have</hi> in<g ref="char:EOLhyphen"/>fected <hi>all places, and corncers of the Land and City with an</hi> Univer<g ref="char:EOLhyphen"/>ſal Contagion: <hi>That from this Proſpect,</hi> many Mourners <hi>may be raiſed up in our</hi> Jeruſalem, <hi>to wreſtle with the</hi> Almighty, <hi>to remove thoſe</hi> Tre<g ref="char:EOLhyphen"/>mendous Judgments <hi>hanging over our heads, and wherein every</hi> pri<g ref="char:EOLhyphen"/>vate Chriſtian <hi>may become a</hi> publick Bleſſing <hi>to the Nation.</hi>
+            </p>
+            <pb facs="tcp:56976:3"/>
+            <p>
+               <hi>In the next place, we only</hi> Propoſe <hi>(in all becoming humility) ſome ſuch</hi> Ways <hi>or</hi> Methods, <hi>for</hi> ſuppreſſing the daily growth of Wick<g ref="char:EOLhyphen"/>edneſs, <hi>as may yet more and more</hi> excite <hi>and</hi> new-animate <hi>our Ho<g ref="char:EOLhyphen"/>nourable</hi> MAGISTRATES <hi>and</hi> CLERGY <hi>to find out ſome better</hi> ex<g ref="char:EOLhyphen"/>pedient <hi>for</hi> Univerſal Reformation of Manners.</p>
+            <p>
+               <hi>However, our hearty</hi> attempts <hi>unto the aforeſaid</hi> End [<hi>in purſu<g ref="char:EOLhyphen"/>ance of thoſe ſeveral</hi> Declarations <hi>and</hi> Proclamations <hi>of the KING and Q<g ref="char:V">Ʋ</g>EEN's</hi> Moſt Ecclent Majeſty, commanding and encourag<g ref="char:EOLhyphen"/>ing all Dutyful and Loyal Subjects thereunto, according to their ſeveral Capacities] <hi>hath met with a wonderful</hi> Bleſſing <hi>and</hi> Succeſs <hi>from ſmall beginnings, even beyond many perſons expectations, by which it appear,</hi> God hath not deſpiſed the day of ſmall things. <hi>FOR, who would have imagined that four or five perſons only</hi> (<hi>who at firſt began this Work, in the</hi> ſight <hi>and</hi> oppoſition <hi>of ſo many</hi> profeſſed adverſaries, <hi>would have met with ſo early</hi> encouragement, <hi>as namely from the</hi> Right Reverend BISHOPS <hi>my</hi> Lord Lucas, <hi>the</hi> Honourable Bench of Juſtices <hi>at</hi> Hicks<hi>'s</hi>-Hall: <hi>Afterwards from the</hi> Right Honoura<g ref="char:EOLhyphen"/>ble <hi>Lord</hi> MAYOR <hi>and Court of</hi> Aldermen; <hi>The honourable</hi> Sheriffs <hi>and</hi> Recorder, <hi>and from ſeveral other</hi> Perſons <hi>of</hi> Eminent Quality <hi>for whoſe great</hi> Zeal <hi>and</hi> Piety <hi>herein, all good mens thanks are due.</hi>
+            </p>
+            <p>
+               <hi>Wherefore that</hi> Poſterity <hi>may riſe up and</hi> Bleſs <hi>Their</hi> Memory <hi>(when they lye down in the Duſt) the laſt</hi> Act <hi>of</hi> Juſtice <hi>and</hi> Gra<g ref="char:EOLhyphen"/>titude <hi>we can ſhew, to</hi> perpetuate their Name, <hi>is to preſent the World with theſe humble</hi> Propoſals, <hi>for an</hi> Univerſal Reformation of Man<g ref="char:EOLhyphen"/>ners: <hi>Annexing thereunto this ſtrange Relation of barbarous</hi> Mur<g ref="char:EOLhyphen"/>ders, <hi>and particularly of a</hi> bloody SLAUGHTER-HOUSE: <hi>Affixing alſo, our</hi> BLACK-ROLL <hi>of the</hi> Names <hi>and</hi> Crimes <hi>of</hi> No<g ref="char:EOLhyphen"/>torious Offenders (<hi>taken out of the</hi> Records <hi>of ſeveral of the</hi> Courts, <hi>&amp;c.</hi>) <hi>which</hi> this Society <hi>hath</hi> detected <hi>and brought to condigne</hi> Pu<g ref="char:EOLhyphen"/>niſhment: <hi>Who when we were but an</hi> Embryo, <hi>yet then began to</hi> Quicken <hi>by that</hi> Benigne Aſpect, <hi>which theſe our moſt Honourable PATRONS were pleaſed to caſt upon us.</hi>
+            </p>
+            <p>This alone, (<hi>if there had been no other</hi> Arguments) <hi>might have given us ſufficient encouragement to make an humble</hi> Dedication <hi>of</hi> theſe Leaves <hi>unto THEM, but that we conſidered</hi> the implacable Adver<g ref="char:EOLhyphen"/>ſaries unto Reformation <hi>would be labouring to</hi> miſrepreſent <hi>both the</hi> Subject-matter, <hi>and our</hi> End.</p>
+            <p>To conculde, let all good Chriſtians pray, that God alone may have the <hi>Honour</hi> and <hi>Glory</hi> of his <hi>own Work,</hi> unto whom be all <hi>Praiſes, Thankſgivings, Worſhip</hi> and <hi>Obedience,</hi> throughout all his Dominions, World without end. <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:56976:3"/>
+            <head>THE NECESSITY Of a Preſent <hi>National Reformation.</hi>
+            </head>
+            <p>
+               <hi>SHall the Lyon roar and the beaſts of the Foreſt not tremble?</hi> Shall God <hi>Shake this</hi> and other <hi>Cities</hi> and <hi>Nations</hi> of <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> all at once, and ſhall our obdurate hearts remain un<g ref="char:EOLhyphen"/>broken, and unſhaken after all this? Doth not the late Tremendous EARTH-QUAKE in ſeveral parts of <hi>England</hi> and <hi>London</hi> (which had ſuch influence on <hi>the Engliſh Court</hi> beyond the Seas, <hi>&amp;c.</hi>) ſpeak a loud unto <hi>this Nation,</hi> and <hi>theſe Kingdoms,</hi> and to this <hi>City?</hi> eſpecially ſince it falls out in ſo few <hi>Weeks</hi> after that great Cataſtrophe in <hi>Jamaica?</hi> As on the one hand, <hi>theſe things</hi> tell us that <hi>God's anger is not yet turned away,</hi> and <hi>that his Arm is ſtretched out ſtill,</hi> ſo on the other hand, this <hi>gentle warning</hi> (after many diſregarded <hi>Mercies</hi> and <hi>Judgments</hi>) ſeems as if God was ſpeaking to <hi>
+                  <g ref="char:V">Ʋ</g>s,</hi> as of old unto <hi>Ephraim. How ſhall I give thee up O Ephraim? how ſhall I make thee as Admah and as Zeboim?</hi> &amp;c.</p>
+            <p>The Church of the <hi>Jews</hi> ſinned not againſt ſuch alluring <hi>Mo<g ref="char:EOLhyphen"/>tives</hi> to <hi>Love</hi> and <hi>Obedience</hi> as we have done. It's true they ſin<g ref="char:EOLhyphen"/>ned greatly in the <hi>Wilderneſs,</hi> and afterwards alſo when they were in their <hi>Promiſed Land,</hi> (though followed with <hi>miraculous mercies</hi> and <hi>deliverances</hi>) ſo long grieving his Spirit, untill God did <hi>greatly abhor his own Inheritance, and forſook Shilo (his Ark,) which he had placed among them.</hi> (Pſ. 87.) And afterward gave the <hi>be<g ref="char:EOLhyphen"/>loved of his ſoul into the hands of her Enemies:</hi> (then when he ſuffered the <hi>Babylonians,</hi> (or <hi>Chaldeans</hi>) to burn <hi>Jeruſalem</hi> and his <hi>Temple.</hi>) They ſinned ſtill more and more after them return
+<pb n="2" facs="tcp:56976:4"/>from Captivity, and that the <hi>Temple</hi> was rebuilt, their ſpirits be<g ref="char:EOLhyphen"/>ing ſo inveterately incenſed againſt one another, that <hi>one Church</hi> (or <hi>Temple-worſhip at Jeruſalem</hi>) was not ſufficient to preſerve Union and Communion. Afterwards (in Chriſts time) his de<g ref="char:EOLhyphen"/>generated Church was arrived to a higher degree of ſin, even under that <hi>Plenary Adminiſtration of the Covenant</hi> (or Goſpel of Salvation (in the perſon of the bleſſed <hi>Maſſias</hi> [<hi>Emanuel,</hi> or <hi>God-Man,</hi> made <hi>fleſh</hi> and <hi>dwelling amongſt</hi> them] tho attended with extraordinary <hi>Signs</hi> and <hi>Miracles.</hi> Which became the ground of that <hi>Wo</hi> denounced by our Saviour againſt <hi>Bethſaida,</hi> and <hi>Corazin,</hi> and drew <hi>Tears</hi> from his <hi>Eyes,</hi> and <hi>Sighs</hi> from his tender heart, when he wept over <hi>Jeruſalem</hi> for their obduracy, who for his dear labour of aſtoniſhing Love (in his bloody <hi>Sweats, Sighs, Agonies, Tears, Conflicts,</hi> &amp;c.) returned him no other recompen<g ref="char:EOLhyphen"/>ces but the hight of <hi>Contempt</hi> and <hi>Scorn,</hi> together with a moſt publick ignominious and cruel <hi>Death,</hi> and from whom they <hi>hid their faces,</hi> and againſt whom they hardened their hearts, even at the ſame time when <hi>he</hi> was <hi>pouring out his ſoul even to the death,</hi> and making his <hi>Body</hi> a <hi>Sacrifice</hi> unto his Fathers wrath, which was kindled againſt him for their ſakes. Yet all this <hi>mon<g ref="char:EOLhyphen"/>ſtrous ingratitude</hi> was excuſable in them, comparatively to what our ſins are againſt the Goſpel-light, who had their <hi>Eyes blinded</hi> (by <hi>judicial anger</hi> of the Almighty,) their <hi>Ears ſtopt,</hi> their <hi>Hearts hardened;</hi> and yet St. <hi>Paul</hi> bears them witneſs that they had a <hi>zeal for God,</hi> though not according to <hi>knowledge:</hi> And that they <hi>ignorantly crucified the Lord of Life and Glory.</hi>
+            </p>
+            <p>However, this <hi>impiety</hi> coſt them very dear at laſt, for after in<g ref="char:EOLhyphen"/>finite Goodneſs and Patience ſlighted and affronted; their <hi>City</hi> and <hi>Temple</hi> were deſtroyed, and their whole <hi>Nation</hi> rooted out, in ſuch wiſe, that they have been from that time a <hi>diſregarded</hi> People, ſcattred throughout the whole Earth, who were once his dearly be<g ref="char:EOLhyphen"/>loved and honoured, his <hi>peculiar Treaſure</hi> and <hi>Inheritance</hi> above all other Nations in the World.</p>
+            <p>What <hi>Jeruſalem</hi> was of old unto <hi>Judea,</hi> and <hi>Judea</hi> unto other Nations, in like manner <hi>London</hi> is unto <hi>England,</hi> and <hi>England</hi> unto CHRISTENDOM. A <hi>City</hi> and <hi>Nation</hi> more favoured of God, (and more envied by the common Adverſary) there is not to be found under the whole heavens: A <hi>City</hi> and <hi>Kingdom</hi> more honoured with the Preſence of CHRIST in the <hi>Goſpel,</hi> and its <hi>ordinances</hi> of <hi>worſhip,</hi> and the powerful operations of his <hi>Spirit</hi> in his word, (for <hi>Conviction</hi> and <hi>Converſion</hi>) is not to be found. Never ſuch a <hi>Sunſhine</hi> of the <hi>Goſpel</hi> brake forth up<g ref="char:EOLhyphen"/>on any <hi>Kingdom</hi> (or at leaſt on any <hi>City</hi>) as upon <hi>England</hi> and
+<pb n="3" facs="tcp:56976:4"/>
+               <hi>London,</hi> ſince the <hi>Great Reformation</hi> (begun near 200 years ago) a greater <hi>priviledge</hi> than if we had enjoyed <hi>Chriſts Preſence</hi> in the <hi>fleſh,</hi> without the <hi>quickning, illuminating, regenerating, ſan<g ref="char:EOLhyphen"/>ctifying, ſealing teſtimonies</hi> of the <hi>Spirit.</hi> The <hi>firſt fruits</hi> whereof bleſſed <hi>ENGLAND</hi> brought forth unto God (even the <hi>firſt ripe fruits</hi> of the <hi>Goſpel,</hi> ſince the grand <hi>Reformation</hi>) beyond all other Nations and People in the <hi>Chriſtian World,</hi> viz. A holy <hi>Seed-Corn</hi> ſown in the <hi>precious Blood</hi> of thoſe <hi>Martyrs</hi> in the <hi>Ma<g ref="char:EOLhyphen"/>rian Perſecution,</hi> an <hi>Oblation</hi> of ſuch ſweet ſavour unto God, that (perhaps) for the ſakes of theſe famous <hi>Worthies of the Church,</hi> God hath bleſſed <hi>our Nation</hi> with ſuch continual encreaſe of the <hi>Bread of Life;</hi> and alſo with ſo many <hi>burning and ſhining Lights</hi> of the Goſpel, and eminent <hi>Labourers</hi> in his <hi>Harveſt,</hi> that <hi>our Land</hi> may properly be called a <hi>Goſhen,</hi> in compariſon of all other parts of the <hi>Chriſtian World.</hi> And may not this <hi>precious Seed of the Church</hi> have been the chief reaſon of thoſe many great and wonderful <hi>Mercies</hi> and <hi>Deliverances,</hi> which God hath ever ſince wrought out for ENGLAND, ſo obvious unto all other people, from Age to Age, that it ſeems to tell the World (in capital Letters) that we are a <hi>Nation of his peculier love and pro<g ref="char:EOLhyphen"/>tection;</hi> the <hi>Vineyard which his own right hand hath planted,</hi> and <hi>watred,</hi> and <hi>fenced,</hi> and <hi>preſerved</hi> both by Night and Day, his <hi>Jedidiah,</hi> his <hi>Hopthiziba,</hi> and <hi>Beula,</hi> the <hi>Signet on his right hand,</hi> and the <hi>labour</hi> of his endearing <hi>love.</hi>
+            </p>
+            <p>If otherwiſe, what means our <hi>miraculous deliverance</hi> from the <hi>Spaniſh Armada:</hi> The <hi>Gunpowder Plot:</hi> The <hi>Maſſacree and Deſo<g ref="char:EOLhyphen"/>lation</hi> no doubt intended on all the Proteſtants of this Kingdom at the <hi>Fire of London</hi> (in 66) and how mercyfull was God to us, that the ſame <hi>Eaſt Wind</hi> which carried on the raging Flames, did alſo at the ſame moment keep off the <hi>French Fleet</hi> from landing upon us? and how ſoon was our Ci<g ref="char:EOLhyphen"/>ty Rebuilt in greater Splendor, even to the painful grief and regret of the Common Enemy? (gnaſhing their teeth thereat, and <hi>opening their mouths wide againſt heaven,</hi> in contempt of God himſelf.) Alſo our <hi>great deliverance</hi> from that (more) <hi>Hor<g ref="char:EOLhyphen"/>rid Conſpiracy</hi> of theirs (in 77 and 78) to root out that which they call'd <hi>the Northern Hereſie</hi> (this bleſſed <hi>ſunſhine of the Goſpel</hi> in theſe Three Nations). And what elſe may we learn from the late moſt famous REVOLUTION (in 88)? What wonderful <hi>Wheele within the Wheele?</hi> The great <hi>Abomination</hi> of <hi>Deſolation</hi> was ready to be perpetrated in theſe Kingdoms and in this City, to lay the Church of Chriſt and his <hi>Sanctuary</hi> in heaps, <hi>&amp;c.</hi> and to make the ſame bloody deſtruction in theſe
+<pb n="4" facs="tcp:56976:5"/>Lands as was made in <hi>France</hi> a year or two before; the <hi>dregs</hi> of that <hi>Cup</hi> were reſerved for us: This was a <hi>deliverance</hi> (in all reſpects conſidered) more miraculous than that which God wrought out for his <hi>oppreſſed Church in Egypt,</hi> and at the <hi>Red-Sea;</hi> and for which aſtoniſhing goodneſs, all our moſt grateful acknowledgments of Praiſes, Thankſgivings, and Obedience are continually due, to God in the firſt place, and in the next, unto <hi>thoſe great favorites of Heaven,</hi> (our <hi>moſt Illuſtrious</hi> KING and QUEEN) whoſe happy Government <hi>God Almighty</hi> long con<g ref="char:EOLhyphen"/>tinue among us, and grant that from their <hi>Reign, a new Meri<g ref="char:EOLhyphen"/>dian</hi> of encreaſing <hi>Glory</hi> may be erected throughout the <hi>Earth.</hi>
+            </p>
+            <p>Now, as our <hi>Mercies</hi> and <hi>Deliverances</hi> have been extraordina<g ref="char:EOLhyphen"/>ry great, <hi>Publick,</hi> and <hi>National,</hi> moſt ſeaſonable alſo and <hi>obvious</hi> unto all, and aſtoniſhing to our very <hi>Adverſaries</hi> themſelves, as well as unto others. [Inſomuch that we are all conſtrained to cry out with ſurprizing wonder — <hi>Lo! this is the finger of GOD! Behold! what ſalvation hath he wrought out for us, in the midſt of the Earth? — Surely there is no Inchantment againſt Jacob, nor Divination againſt Iſrael.</hi>] So in like manner <hi>God expects</hi> from <hi>England</hi> and <hi>London</hi> a Publick or <hi>National Reformation,</hi> and no<g ref="char:EOLhyphen"/>thing leſs than this, will be eſteemed by him a <hi>walking worthy</hi> of theſe great mercys in all-becoming <hi>thankfulneſs:</hi> Good <hi>Heze<g ref="char:EOLhyphen"/>kiah</hi> rendred praiſes unto God in humility and acts of new-o<g ref="char:EOLhyphen"/>bedience, yet God took it amiſs from him, that he walked not ſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>table unto ſuch a great <hi>miracle of love and mercy</hi> ſhewn him, in his <hi>recovery</hi> from that <hi>Sentence of Death</hi> which had paſſed on him: (having cauſed the <hi>Sun to go back</hi> 15 <hi>degrees,</hi> as an extraordi<g ref="char:EOLhyphen"/>nary token of Gods endearing affection unto him, above all o<g ref="char:EOLhyphen"/>thers). Nothing therefore leſs than a <hi>National Reformation</hi> will be acceptable in God's ſight, after <hi>Englands wonderful mercies and deliverances;</hi> this therefore is that which we have great reaſon to conclude, is <hi>the thing God looks for</hi> from us at this day, and without which we have too great cauſe to fear that after <hi>all,</hi> his <hi>infinite goodneſs and patience (abuſed)</hi> will turn into <hi>fury</hi> againſt us, and that his <hi>anger</hi> for all this will not turn away from us, unleſs we bring forth ſuch <hi>fruits</hi> as are <hi>meet for repen<g ref="char:EOLhyphen"/>tance; you have I known of all families of the earth, therefore will I puniſh you</hi> for your iniquities: [that is to ſay, unleſs you bring forth the Publick or <hi>National</hi> fruits for theſe <hi>National</hi> mercies I have ſhewn you from time to time].</p>
+            <pb n="5" facs="tcp:56976:5"/>
+            <p>But what ſhall we all ſay? <hi>who will plead for us, or mollify</hi> and bind up <hi>our wounds?</hi> What cauſe have we to fear leaſt <hi>our iniqui<g ref="char:EOLhyphen"/>ty is marked out before the Lord?</hi> O how dreadful it is to relate our deplorable caſe? Where are <hi>the Mourners?</hi> Would to God <hi>England</hi> (<hi>England</hi> more eſpecially) could weep day and night, and be in bitterneſs of grief; and that all our eyes might ſend forth ſtreams like many Rivers, and make our barren unfruitfull Earth a <hi>Bochim.</hi> We have been planted a <hi>noble Vine,</hi> a <hi>Vineyard of God's own watering, and defence</hi> from Age to Age: But how have we <hi>degenerated into the Plant of a ſtrange Vine,</hi> even ſince our late miraculous EXODUS? Have we not brought forth <hi>Apples of Sodom,</hi> and <hi>ſour Grapes</hi> of <hi>Gomorah? Thorns</hi> and <hi>Thiſtles</hi> inſtead of <hi>Figs?</hi> What monſtrous <hi>ingratitude</hi> and <hi>forgetful<g ref="char:EOLhyphen"/>neſs</hi> of all our eminent mercies? What high <hi>diſcontents, complaints, murmurings, ſeditions, blaſphemies,</hi> yea, and <hi>Rebellions</hi> againſt the LORD himſelf: We are looking unto <hi>Egypt</hi> again (as it were in contempt of the <hi>moſt high God,</hi> (who hath wrought out our <hi>great ſalvation</hi>) and appointing us a <hi>King</hi> under whom to <hi>return</hi> back into greater <hi>bondage</hi> and miſery than what was felt under the <hi>Iron Furnace,</hi> from whence we came forth; Plenty of heavenly <hi>Manna</hi> we have now ſcattered round our Tents, but do we not loath it; and are we not always filled with <hi>complaints,</hi> and ſinful <hi>reflections</hi> on <hi>God</hi> himſelf? The Hiſtory of the <hi>Jews in the Wilderneſs,</hi> exactly reſembles <hi>us</hi> at this day. Are we not a generation of <hi>backſliders, preſumptuous</hi> and <hi>ſelf-willed people?</hi> And have we not turned the grace and love of God (who hath <hi>redeemed us out of the houſe of Bondage</hi>) into ſinful <hi>wantonneſs?</hi> Are we not <hi>Jeſhuron</hi> like, and do we not <hi>kick againſt the Lord?</hi> Do we not <hi>harden</hi> our ſelves againſt the <hi>Almighty,</hi> and ſet up our <hi>Thorns</hi> and <hi>Bryers,</hi> to oppoſe him in the footſteps of thoſe eminent <hi>Provi<g ref="char:EOLhyphen"/>dences</hi> wherein he hath been walking in the midſt of us, in an extraordinary manner and waiting on us, to <hi>compleat our deli<g ref="char:EOLhyphen"/>verance</hi> (whither we deſire to be ſaved or no). But inſtead of a thorough <hi>amendment</hi> of our ways, and turning to our provoked Father, who in this gentle manner <hi>warns</hi> us out of his tender love, becauſe he is loath to deſtroy us, not ſo much for our ſakes as for his own Glory, and the <hi>honour of his great Name,</hi> leaſt that ſhould be <hi>profaned</hi> by the <hi>adverſaries of the Goſpel, (the Heathen who are called by his name,</hi> (as <hi>Amos</hi> 12.9.) yet inſtead of <hi>returning unto. God with our whole heart and ſoul,</hi> May it not be taken up for a lamentation againſt us, that <hi>we grow worſe and worſe,</hi> and have <hi>ſinned as we could;</hi> and have hardened our ſelves yet more and more againſt the many <hi>judgments</hi> and <hi>mercies</hi> wherewith God hath
+<pb n="6" facs="tcp:56976:6"/>been dealing with us from time to time? May it not be complai<g ref="char:EOLhyphen"/>ned of againſt our <hi>Chriſtian Judah</hi> and <hi>Jeruſalem,</hi> as of old the <hi>Prophet</hi> did againſt the <hi>Church of the Jews,</hi> under their great De<g ref="char:EOLhyphen"/>generacy, <hi>viz.</hi> That <hi>Prophaneneſs is gone forth through the whole Land?</hi>
+            </p>
+            <p>Look we on <hi>Profeſſors</hi> in general, How do the <hi>Vitals of Religion</hi> languiſh? What <hi>Wounds</hi> hath She received even amongſt Her <hi>Friends?</hi> Univerſal Corruption and Degeneracy overſpread the <hi>Church</hi> even in this Age, altogether as much as in <hi>Jeremiah</hi>'s days. The <hi>Prophet</hi> was in a great ſtrait what to do, and whither or no he had not beſt withdraw himſelf, and leave them, <hi>Jer.</hi> 9.1, 2, 3, 4, 5, 6. <hi>O that my head were waters, and my eyes a fountain of tears, that I might weep day and night. O that I had in the wilderneſs a lodging place of wayfaring men, that I might leave my people, and go from them: for they be all adulterers, an aſſembly of treacherous men. They bend their tongue like their bow, for lies; they are not valiant for the truth. Take ye heed, every one of his neighbour, and truſt ye not in any brother; for every brother will utterly ſupplant, and every neighbor will walk with ſlanders. They will deceive every one his neighbor, and will not ſpeak the truth,</hi> &amp;c. Compared with <hi>Micah</hi> 7.4, 5, 6. <hi>The beſt of them is as a bryar; the moſt upright is ſharper than a thorn-hedge. —Truſt ye not in a friend,</hi> &amp;c. Is not the quickning, illumina<g ref="char:EOLhyphen"/>ting, converting, ſanctifying Preſence of the <hi>Spirit</hi> driven away from us? How many <hi>Hundred Sermons</hi> are preached, and not one Soul turned from the power of <hi>Sin and Satan unto God,</hi> even throughout the whole <hi>Land,</hi> nay, throughout this profeſſing <hi>City?</hi> Several indeed are thereby brought into this and the other <hi>Party</hi> or <hi>Sect,</hi> and eſpouſed to Opinions, <hi>&amp;c.</hi> [eſpecially of thoſe who were the Means of awakening their benumbed Conſciences into a ſerious frame, taking up with their <hi>External Way</hi> or <hi>Mode</hi> of Religion, as in a moſt ſafe <hi>Sanctuary;</hi> when Strangers (perhaps) to the <hi>Founda<g ref="char:EOLhyphen"/>tion-Principles</hi> of true <hi>Godlineſs,</hi> and almoſt totally negligent of the true <hi>Power</hi> and <hi>Practice of Chriſtianity.</hi>] Hence ſo many are of <hi>Paul,</hi> and of <hi>Cephas</hi> and <hi>Apollos;</hi> and hence ſuch vain <hi>offenſive wranglings</hi> (and <hi>ſcandalous janglings</hi>) in Matters of leſſer moment; whilſt <hi>Re<g ref="char:EOLhyphen"/>ligion</hi> hereby hath received almoſt her <hi>mortal Wound,</hi> at the Heart, (with reſpect to the <hi>pure</hi> and <hi>holy Principles</hi> thereof, or that <hi>practi<g ref="char:EOLhyphen"/>cal Piety</hi> wherein all true <hi>Chriſtians</hi> are agreed) and Her <hi>languiſhing Vitals</hi> are in a manner <hi>giving up the Ghoſt.</hi> And the <hi>Spirit of God</hi> being hereby <hi>grieved,</hi> and <hi>vexed,</hi> and <hi>quenched,</hi> hath in a great mea<g ref="char:EOLhyphen"/>ſure left us to our own diſtemper'd Minds, and a Spirit of <hi>Giddineſs</hi> hath ſeized many Heads; and we may read <hi>ICHABOD</hi> on the Doors of almoſt all our Churches and Aſſemblies, (whether
+<pb n="7" facs="tcp:56976:6"/>
+               <hi>publick</hi> or more <hi>private</hi>) and <hi>The Glory of God is departed from us.</hi> Little is left us beſides the <hi>Mantle of Elijah,</hi> and that alſo much rent (like the <hi>Vail</hi> of the <hi>Wounded Spouſe, Cant.</hi> 5. <hi>ver.</hi> 7.) And were it not for the <hi>Common Gifts and Graces of the Spirit,</hi> the <hi>exter<g ref="char:EOLhyphen"/>nal Form</hi> of <hi>Godlineſs</hi> would in a great meaſure vaniſh out of our ſight. And inſtead of the Preſence of the <hi>Angel moving the Waters of the Sanctuary,</hi> hath not a great <hi>ſmonk filled the Temple?</hi> (<hi>Iſa.</hi> 6.4. compared with <hi>Apoc.</hi> 15.8.) And are not the <hi>Word,</hi> and <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> (<hi>Sabbaths</hi> and <hi>Ordinances, &amp;c.</hi>) become to many [God for<g ref="char:EOLhyphen"/>bid it ſhould be to All, we now ſpeak only of the generality of De<g ref="char:EOLhyphen"/>generate Profeſſors] <hi>the ſavour of Death unto Death?</hi> And are we not daily growing worſe and worſe? — That holy and honou<g ref="char:EOLhyphen"/>rable <hi>Communion of Saints,</hi> wherein the <hi>brightneſs of true Chriſtiani<g ref="char:EOLhyphen"/>ty</hi> (in the encreaſing luſtre of the Goſpel) was ſo greatly preſerved amongſt the <hi>Primitive Churches;</hi> and whereby ſo venerable an Eſteem unto <hi>Piety</hi> was begat and nouriſhed in the <hi>Heathens</hi> them<g ref="char:EOLhyphen"/>ſelves, (beholding the <hi>Order, Love, Peace, <g ref="char:V">Ʋ</g>nion,</hi> and <hi>Communion</hi> of the <hi>Profeſſors of Religion</hi> in thoſe days) and that which is become <hi>one great Article of our Faith, [The Communion of Saints]</hi> how greatly is it miſunderſtood by the generality of (nominal) Chriſtians? an Univerſal Decay of Religion amongſt us hath cauſed ſo little Conſcience to be made of <hi>frequenting the Publick Aſſemblies and Prayers of the Church?</hi> Yet ſuppoſe all this were duly and regularly performed, how little <hi>Communion</hi> hath one <hi>Chriſtian</hi> with another, in their <hi>Bodily Preſence,</hi> aſſembling together as if to ſee each others Faces, once a week or month, within the <hi>Church-walls,</hi> and keeping altogether at adiſtance from one another, as to <hi>Soul Converſe?</hi> What ſtrange <hi>Communion of Saints</hi> is this, when thoſe <hi>Viſits</hi> which are given tend but rather to promote greater <hi>Licentiouſneſs,</hi> and <hi>Vanity</hi> of <hi>Mind,</hi> and <hi>Idle Talk,</hi> nay, amongſt many of the <hi>Chief Profeſſors</hi> alſo; or, at beſt, tend to no greater good, than to a <hi>How do ye?</hi> and, <hi>What News?</hi> Or, if there be an intimacy of Acquaintance, the un<g ref="char:EOLhyphen"/>profitable Diſcourſes are interlaid with ſome fattening Proviſion for the Belly, <hi>&amp;c. (Though Leanneſs is enter'd into the Soul, and Rottenneſs in the very Heart.)</hi> Pſal. 12.1. <hi>Help, Lord, for the god<g ref="char:EOLhyphen"/>ly man ceaſeth, the faithful fail from amongſt the children of men: they ſpeak vanity every one with his neighbour; with flattering lips, and with a double heart do they ſpeak.</hi> Theſe, and many ſuch ſymptoms (like grey Hairs) are not the things chiefly intended to be mentio<g ref="char:EOLhyphen"/>ned with reference unto the <hi>National Reformation,</hi> which to recti<g ref="char:EOLhyphen"/>fie muſt be the immediate Work of God, and his Spirit (in its pourings out hereafter expected) but they are thus repreſented be<g ref="char:EOLhyphen"/>fore us, to convince how greatly <hi>our whole Head is ſick, and our Heart faint.</hi> The ſame Complaint which <hi>Iſaiah</hi> makes againſt
+<pb n="8" facs="tcp:56976:7"/>
+               <hi>Judah</hi> and <hi>Jeruſalem,</hi> (even under that <hi>Divine Service</hi> in their <hi>Temple-Worſhip</hi>) and alſo under the Government of pious <hi>Jotham,</hi> (of whom it is ſaid, That <hi>he prepared his ways before the Lord, and did that which was right in his ſight,</hi> 2 <hi>Chron.</hi> 27.)</p>
+            <p>On the other hand, if we caſt our Eye on the <hi>looſer ſort</hi> of Pro<g ref="char:EOLhyphen"/>feſſors (or <hi>Baptized Chriſtians</hi>) of a more <hi>publick</hi> and <hi>ſcandalous life,</hi> in our <hi>Nation,</hi> or within this <hi>City,</hi> what ſhall we ſay? Are not <hi>all their places full of Vomit?</hi> What <hi>Scornings</hi> and <hi>contemptible Deriſi<g ref="char:EOLhyphen"/>ons</hi> againſt the <hi>Holy Spirit,</hi> and its <hi>Quicknings, Illuminations, Con<g ref="char:EOLhyphen"/>victions, Woundings, Converſions, Sealings, &amp;c.</hi> do they profanely manifeſt? What <hi>Revilings</hi> do they caſt (with all the Odium and Backbitings they are able) upon <hi>Religion</hi> it ſelf, and every thing that looks like <hi>Sobriety</hi> and <hi>Godlineſs?</hi> What a Spirit of Bitterneſs, Gall, and Wormwood is there in them againſt the faint Shadows of <hi>Practical Holineſs</hi> or <hi>Reformation?</hi> With what Reluctancy do they ſet themſelves to <hi>oppoſe</hi> it in every part or beginning of it, If poſſible, to ſtifle the very empty <hi>Sound</hi> thereof? The Name of REFORMATION is become almoſt as dreadful as the ſound of that <hi>Drum</hi> made of a victorious <hi>Barbarian</hi>'s Skin, <hi>&amp;c.</hi> Theſe ſort of Men had rather have the <hi>Devil</hi> and his <hi>Vicegerents</hi> (if in human ſhape) to <hi>Rule</hi> in the high places of the Earth, than any <hi>Potentate,</hi> that ſhall heartily endeavour to reclaim the Reign of <hi>Vice</hi> and <hi>Debauchery</hi> throughout their Dominions. <hi>Swearing, Curſing, Drun<g ref="char:EOLhyphen"/>kenneſs, Revilings, Laſciviouſneſs, Whoredoms, Riot, Gluttony, Blaſphe<g ref="char:EOLhyphen"/>mies, Gameſtring,</hi> and ſuch-like Wickedneſſes; are not only their daily Practice, but that for which they <hi>plead</hi> earneſtly, and uſe all their Endeavour to corrupt the Age wherein they live, into a like of and compliance with all theſe Wickedneſſes. As if God had deliver'd theſe Three Kingdoms from the <hi>deſolating</hi> Judgments that hanged over our Heads, on purpoſe that <hi>they might commit all theſe Abominations, and proceed from Evil to Evil, growing worſe and worſe,</hi> and <hi>corrupting</hi> themſelves <hi>more and more.</hi> As if God had given <hi>Them</hi> over to a <hi>Reprobate Mind</hi> (with thoſe <hi>
+                  <g ref="char:V">Ʋ</g>nthankful Romans</hi>) for their monſtrous <hi>Ingratitude</hi> unto GOD, (to ſay no<g ref="char:EOLhyphen"/>thing of the Bleſſed <hi>Inſtrument</hi> of our Deliverance, <hi>&amp;c.</hi>) that <hi>Augean Stable,</hi> from whence ſuch a multitude of (Serpentine) <hi>Hydra</hi>'s breed: <hi>Rom.</hi> 1. from <hi>ver.</hi> 21. to the end. And as this is now be<g ref="char:EOLhyphen"/>come an <hi>epidemical Diſeaſe,</hi> and a <hi>Contagion univerſally overſpread<g ref="char:EOLhyphen"/>ing</hi> it ſelf, ſo we have reaſon to believe, that God expects from us all a <hi>National Reformation,</hi> before his <hi>Anger</hi> be pacified towards us. Otherwiſe we may conclude, that <hi>Tyre</hi> and <hi>Zid<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, Nineveh,</hi> yea, <hi>Sodom</hi> and <hi>Gomorrah,</hi> (who never were partakers of our ex<g ref="char:EOLhyphen"/>traordinary Mercies and Deliverances, will <hi>riſe up in judgment
+<pb n="9" facs="tcp:56976:7"/>againſt this Land and City.</hi> And we ſhall certainly (without Re<g ref="char:EOLhyphen"/>pentance) meet with a <hi>more fiery Judgment and fearful Indignation,</hi> than what befel <hi>them,</hi> who never ſinned againſt that <hi>Goſpel Grace, Light,</hi> and <hi>Love,</hi> nor yet againſt the many <hi>Warnings</hi> and <hi>Threat<g ref="char:EOLhyphen"/>nings,</hi> which we have done. God hath once more (of late) ſpo<g ref="char:EOLhyphen"/>ken aloud to <hi>all ſorts</hi> amongſt us (from the higheſt to the loweſt throughout this Land, and in a ſpecial manner to <hi>this City</hi>) by <hi>ſha<g ref="char:EOLhyphen"/>king the Earth and the Sea;</hi> but are we made <hi>broken and contrite in ſpirit</hi> thereby? Have we not rather hardned our ſelves more and more ſince that <hi>Angry voice?</hi> Hath that dreadful EARTHQUAKE in <hi>Jamaica</hi> (a few months ago) which ſwallowed up ſo many hundreds alive, <hi>&amp;c.</hi> unſetled us, and ſhook us off from our Lees? Or hath that <hi>Tremendous Deſolation</hi> rather perſwaded us, that <hi>We</hi> are not ſo great Sinners as <hi>They</hi> were, fooliſhly concluding, That <hi>they on whom the Tower of</hi> Shilo <hi>fell,</hi> had ſinned to a higher degree than others? Our Saviour tells us, <hi>Nay, but except we repent, we ſhall all in like manner periſh.</hi> Which God Almighty of his great Goodneſs prevent, and give us all true <hi>Repentance,</hi> leſt a <hi>ſeven times worſe Calamity</hi> befall our Land.</p>
+            <p>No Reflections are hereby intended to be made againſt any Perſon or Perſons, who <hi>Rule</hi> in the <hi>Civil</hi> or <hi>Eccleſiaſtical Orbs of Government.</hi> As on the one hand we have great reaſon to bleſs God, that in this day there are ſeveral who <hi>do Worthily in our Ephrata,</hi> and deſerve Double Honour; [particularly His GRACE the <hi>Moſt Reverend</hi> ARCHBISHOP of <hi>Canterbury,</hi> and ſeveral of the <hi>Right Reverend</hi> BISHOPS, together with other Perſons of Quality, acting in any other publick Sphere; ALL whoſe re<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oy<g ref="char:EOLhyphen"/>cing, we doubt not but it would be more and more to ſee <hi>Piety</hi> flouriſh; and <hi>Vice, Debauchery,</hi> and <hi>Prophaneneſs</hi> decay and wither throughout this <hi>City,</hi> and theſe <hi>Kingdoms.</hi> So likewiſe on the other hand, we have great ground for much Grief and Lamenta<g ref="char:EOLhyphen"/>tion, to conſider how little Their <hi>Perſonol</hi> and <hi>Relative Goodneſs</hi> and <hi>Vertues</hi> are of <hi>Influence,</hi> ſo as thereby to effect an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal</hi> or <hi>National Reformation,</hi> without ſome other <hi>meaſures</hi> to put a ſtop unto that wide <hi>Floodgate of Atheiſtical Vice and Prophaneneſs,</hi> which (like the <hi>Poet's Duſt</hi> from <hi>Pandora</hi>'s Box) hath ſo overſpread <hi>all Places</hi> and <hi>Perſons</hi> (for the generality thereof) as with an <hi>Epide<g ref="char:EOLhyphen"/>mical Contagion</hi> infecting the <hi>whole Land.</hi>
+            </p>
+            <p>Wherefore from the afflicting ſence of theſe things, as likewiſe from the Apprehenſions of that Great Duty lying on us, <hi>to detect Vice, and promote a Reformation of Manners, according to our ſeve<g ref="char:EOLhyphen"/>ral Opportunities and Capacities;</hi> we can do no leſs than apply <hi>our
+<pb n="10" facs="tcp:56976:8"/>ſelves</hi> to theſe our <hi>Magiſtrates</hi> and <hi>Clergy;</hi> and we do it in moſt humble manner, and with what ſetiouſneſs and importunity we are able, entreating, — That as they All have a due regard unto the <hi>Name</hi> and <hi>Glory</hi> of GOD, the Good of his <hi>Church,</hi> the <hi>Saſety</hi> and <hi>Honour</hi> of the KING and QUEEN, and the <hi>Eſtabliſhment</hi> of their Excellent Government, the <hi>Peace, Happineſs,</hi> and <hi>Proſpe<g ref="char:EOLhyphen"/>rity</hi> of <hi>theſe three Kingdoms,</hi> and particularly of <hi>this</hi> great, populous and flouriſhing <hi>City:</hi> And likewiſe, as ever they regard the con<g ref="char:EOLhyphen"/>ſcientious diſcharge of that weighty and incumbent <hi>Duty,</hi> lying on them in their <hi>publick Places</hi> of <hi>eminent Truſt:</hi> — On the account of all theſe moſt weighty and ſerious Conſiderations, we moſt hum<g ref="char:EOLhyphen"/>bly and earneſtly beſeech and entreat, That THEY would forthwith more and more improve their utmoſt Intereſt and Endeavour to promote a <hi>National Reformation,</hi> without which it is greatly fea<g ref="char:EOLhyphen"/>red we ſhall not prevail with God for <hi>the Bleſſing</hi> which <hi>our Na<g ref="char:EOLhyphen"/>tion</hi> hath been ſtrugling and wreſtling for, in the midſt of thoſe <hi>affrightful Proſpects</hi> which we have yet before us. This <hi>Publick Reformation</hi> is the great thing (or ſeems to be) which God at this time is earneſtly expecting from us, and without which who dare preſume to conclude, that He will yet deliver us? and that his Hand will not ſtill continue to be ſtretched out againſt us? and that <hi>Tremendous Deſolation</hi> will not yet overtake us, like a <hi>Whirl<g ref="char:EOLhyphen"/>wind from the Almighty?</hi> (<hi>Nah.</hi> 1.2, 3, 4, 5, 6.)</p>
+            <p>We are not ſo vainly conceited of our ſelves, as to take upon us to <hi>dictate</hi> or <hi>preſcribe</hi> the ſeveral <hi>Paths, Steps,</hi> and <hi>Meaſures, &amp;c.</hi> wherein a <hi>National Reformation (of Manners)</hi> ought to be effected, leaving this unto the Wiſdom of our <hi>Superiours</hi> to determine and manage as they think beſt: But we do only, in all becoming Humility, propoſe theſe following Conſiderations, <hi>all</hi> or <hi>moſt</hi> of them being of great importance in the Apprehenſions of ſe<g ref="char:EOLhyphen"/>veral of the <hi>moſt Pious</hi> and <hi>Reverend Divines,</hi> both of the <hi>Church</hi> of <hi>England</hi> and of the <hi>Diſſenting Brethren,</hi> (with other perſons alſo of <hi>eminency</hi> for Religion, <hi>&amp;c.</hi>) who, after a mature deliberation, have concluded, That the Conſiderations following are almoſt of in<g ref="char:EOLhyphen"/>diſpenſible Neceſſity unto the <hi>Eſſential Conſtitutive</hi> of a <hi>National Reformation,</hi> unleſs we reſolve to content our ſelves with the Name or Shadow thereof.</p>
+            <div n="1" type="consideration">
+               <head>I. CONSIDERATION.</head>
+               <p>
+                  <hi>That there be a moſt ſolemn Faſt, without any appearance of Orna<g ref="char:EOLhyphen"/>ments amongſt us, from the higheſt to the loweſt;</hi> (and if we came in our
+<pb n="11" facs="tcp:56976:8"/>ruſty threadbare Garments, ſo much the better.) This we find in ſome extraordinary Caſes (1.) <hi>Commanded, Exod.</hi> 33.5. (2.) <hi>ex<g ref="char:EOLhyphen"/>pected</hi> by God from Profeſſors in a day of Univerſal Degeneracy, then, when the Church lay under very ſevere Threatnings, (<hi>Iſa.</hi> 3. from Ver. 16. to the end of the Chapter.) And (3.) <hi>practiſed</hi> in the moſt ſolemn Faſts both of the <hi>Church,</hi> (as <hi>Exod.</hi> 33.6. <hi>Eſth.</hi> 4.1, 2, 3, 14, 16.) and of <hi>Heathens,</hi> (<hi>Jonah</hi> 3.6, 7, 8, 9.)</p>
+               <p>The <hi>Internal Acts</hi> neceſſary at ſuch moſt ſolemn Times, are,</p>
+               <p n="1">1. <hi>Afflicting of our Souls</hi> in good earneſt, (and not <hi>hanging down our Heads for a day, like a bulruſh;</hi> as <hi>Iſa.</hi> 58.5.) In that great and only <hi>Faſt</hi> in all the Jewiſh Year, (at the <hi>Day of Atonement</hi> on the 10th of the Seventh Month, <hi>Lev.</hi> 10.) God expreſly threatens, That what Soul ſoever did not <hi>Afflict it ſelf</hi> at that extraordinary time, ſhould be <hi>cut off.</hi> And the King of <hi>Nineveh</hi>'s Edict ſeemed in a manner as ſevere, <hi>Jonah</hi> 3.8.</p>
+               <p n="2">2. <hi>A particular Confeſſion of the Sins of our Magiſtrates and Mini<g ref="char:EOLhyphen"/>ſters, and the Aggravations thereof,</hi> with reſpect unto the <hi>Relation</hi> wherein they ſtand as <hi>Publick Perſons.</hi> This we find in <hi>Ezra</hi> 9.7 compared with <hi>Neh.</hi> 9.34, 35.</p>
+               <p n="3">3. <hi>A full and particular Confeſſion of the moſt publick and ſcandalous Sins of Profeſſors,</hi> above all others; of ſuch in an eſpecial manner as have, in the viſible Church of God, openly profeſſed their deli<g ref="char:EOLhyphen"/>berate Reſolution to perform their <hi>Baptiſmal Vow,</hi> and are thereby admitted unto the <hi>Holy Communion,</hi> as <hi>viſible Saints;</hi> and who alſo make a greater <hi>Profeſſion of Religion</hi> and <hi>Sobriety</hi> than many [of the looſer ſort, who walk as if they had <hi>Renounced</hi> their <hi>Ba<g ref="char:EOLhyphen"/>ptiſm</hi>] for <hi>Theſe</hi> are they who more provoke God than the <hi>openly Prophane,</hi> (<hi>Ezra</hi> 9.10.) and for which we ought in a moſt parti<g ref="char:EOLhyphen"/>cular manner to <hi>m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>urn,</hi> and lye covered with <hi>ſhame, &amp;c.</hi>
+               </p>
+               <p n="4">4. <hi>A due ſenſe of the moſt Rampant Sins and Atheiſtical Impieties of the moſt prophane Debauchees of our Age,</hi> with a particular Con<g ref="char:EOLhyphen"/>feſſion and Mourning for them: and without which, God may juſtly charge Us as guilty in the furtherance of their Sin (in ſome ſenſe).</p>
+               <p n="5">5. <hi>A particular enumeration of our ſeveral extraordinary National Mercies,</hi> [with great <hi>Thankfulneſs</hi> and <hi>Praiſes</hi> unto God, and great Self-abhorrence for our Forgetfulneſs thereof, and ungrateful Returns.] And likewiſe of the many <hi>Judgments</hi> God hath inflicted on our <hi>Nation</hi> and <hi>City</hi> from time to time; that hereby we may learn to conſider and admire God's Infinite <hi>Patience,</hi> in not utter<g ref="char:EOLhyphen"/>ly conſuming us; and may be taught rightly to <hi>mourn over our own and others Sins:</hi> and likewiſe to maintain a continual <hi>godly Fear</hi>
+                  <pb n="12" facs="tcp:56976:9"/>and <hi>Jealouſie,</hi> leſt after all the multitude of mercies ſhewn the Kingdoms, God be provoked even at laſt, to <hi>ſpew us out of his mouth,</hi> Neh. 9. from <hi>ver.</hi> 7. <hi>to ver.</hi> 32. and <hi>Ezra</hi> 9.13, 14. <hi>And after all that is come on us for our evil deeds and for our great treſ<g ref="char:EOLhyphen"/>paſs, ſeeing that thou our God haſt puniſhed us leſs than our ſins de<g ref="char:EOLhyphen"/>ſerve, and haſt given us ſuch deliverance as this. Should we again break thy commandments, wouldeſt thou not be angry with us till thou haſt conſumed us, ſo that there ſhould be no eſcaping?</hi>
+               </p>
+               <p n="6">6. <hi>A forſaking of our ſins, and a moſt ſcrious and ſolemn renewal of Covenant with God,</hi> to walk in all the duties of new Obedience. (<hi>Neh.</hi> 9. <hi>verſ.</hi> the laſt).</p>
+            </div>
+            <div n="2" type="consideration">
+               <head>II. CONSIDERATION.</head>
+               <p>
+                  <hi>That there be effectual care taken to eſtabliſh Juſtice and Judgment unto the Poor and Needy, the Deſtitute, the Oppreſſed and Afflicted in the Gate.</hi> That hereby <hi>Truth</hi> and <hi>Righteouſneſs</hi> may flow down as a mighty Stream, and <hi>Violence</hi> be removed throughout the Land. <hi>Oppreſſion</hi> and <hi>Violence</hi> (both going hand in hand) were one great (or the greateſt) reaſon for <hi>the Flood</hi> on the old World (<hi>Gen.</hi> 6. there twice obſerved). And this <hi>crying ſin</hi> is threatned above all or moſt others throughout the Scripture. The wiſe Man takes a particuliar obſervation of <hi>the place of Judgment &amp; Righ<g ref="char:EOLhyphen"/>teouſneſs,</hi> (or where Juſtice and Righteouſneſs ought to be found in a moſt eminent manner) and beheld that <hi>wickedneſs and ini<g ref="char:EOLhyphen"/>quity was there;</hi> (<hi>Eccl.</hi> 3.16.) to denote that of all the ſins that are in the World, this ſeems moſt obvious in the ſight of God, and of all others, ſooneſt expoſeth a <hi>Nation</hi> to his juſt <hi>indigna<g ref="char:EOLhyphen"/>tion.</hi> Hence <hi>Daniel</hi>'s Counſel to <hi>Nebuchadnezzar</hi> as that which was the moſt prevalent remedy to divert God's Tremendous Judg<g ref="char:EOLhyphen"/>ment, hanging over his head, was to <hi>break off his ſins by righteouſneſs and his iniquities, byſhewing mercy to the Poor</hi> (<hi>Daniel</hi> 4. <hi>v.</hi> 27.) And this is the effect of an acceptable <hi>Faſt</hi> with God, <hi>viz. to looſe the bands of wickedneſs; to undo the heavy burden; to let the oppreſſed go free, and to break every yoke.</hi> This is to bring <hi>the poor that are caſt out, into our houſe, and not to hide our ſelves from our own fleſh.</hi> Iſa. 58.6, 7.</p>
+               <p>No reflections are here intended againſt the <hi>Reverend Judges</hi> in the Courts of Judicature, but with reſpect to that univerſal corruption of the ſeveral <hi>Practitioners,</hi> or <hi>
+                     <g ref="char:V">Ʋ</g>nder-Officers</hi> thereof in the <hi>Cauſes</hi> of the <hi>Poor,</hi> (whether of <hi>Widows, Fatherleſs, Orphans,</hi> or others) either through an almoſt total neglect of their Juſt Right, (for want of Monies to proſecute the ſame)
+<pb n="13" facs="tcp:56976:9"/>or elſe by ſuch <hi>tedious prolonging</hi> of their <hi>Sutes,</hi> from <hi>Term</hi> to <hi>Term,</hi> and from Year to Year, that they had better ſuffer the wrong, and the violence of their Oppreſſors, (though never ſo unjuſt) than by ſeeking ſuch an uneaſie remedy (as that of <hi>Law</hi>) to run themſelves on the very Precipice of Ruin and Deſtructi<g ref="char:EOLhyphen"/>on, whilſt their little <hi>All</hi> is hereby exhauſted in defence of their own Juſt Right; which occaſions no ſmall Cry in the Ears of God from theſe <hi>diſtreſſed Abjects</hi> throughout this <hi>Land?</hi>
+               </p>
+               <p>We do not entreat <hi>impoſſibilities,</hi> or expect the removal of thoſe many <hi>mountains of difficulties</hi> which ſeem to lie in the way: And leaſt of all do we deſire the <hi>diſplacing</hi> of any from their ſe<g ref="char:EOLhyphen"/>veral reſpective <hi>Offices,</hi> and <hi>Imployments;</hi> nor yet the <hi>diminiſhing of any Fees, &amp;c.</hi> which the <hi>Law allows;</hi> but only thus much we humbly and importunately ſolicit, <hi>viz. That there may be a cer<g ref="char:EOLhyphen"/>tain number of ſelect perſons</hi> (for <hi>Councellors, Solicitors, Atturneys,</hi> &amp;c.) <hi>Men of known Integrity and Ability, who are wholly to attend on all the juſt and righteous Cauſes of the poor and needy only, and that they may be Sworn to make all the diſpatch they can, in the effe<g ref="char:EOLhyphen"/>ctual management and carrying on of their Cauſes, that they may all be brought to a moſt ſpeedy Iſſue and Determination, without taking any Money or Monies worth from them or theirs, upon any account or pre<g ref="char:EOLhyphen"/>tence at any time whatſoever:</hi> And that there may be a <hi>ſettled Allowance</hi> eſtabliſhed by Law, for theſe <hi>ſelected Perſons,</hi> who are to undertake no other Cauſe or Cauſes whatſoever, but <hi>theſe</hi> of the <hi>poor</hi> and <hi>needy;</hi> (<hi>Widows, Fatherleſs, Orphans,</hi> and ſuch like <hi>Objects</hi>) among whom alſo <hi>all wronged and afflicted Strangers,</hi> who are ignorant of <hi>our Laws,</hi> and are otherwiſe <hi>deſtitute</hi> of help or means to vindicate their <hi>Juſt Rights.</hi> And if <hi>this</hi> might be eſta<g ref="char:EOLhyphen"/>bliſhed ſo as to become <hi>effectual</hi> unto the great <hi>End</hi> a<g ref="char:EOLhyphen"/>foreſaid: O what <hi>Rich bleſſings</hi> might this bring down on <hi>theſe Kingdoms,</hi> and render us a <hi>praiſe and Glory to all Nations of the Earth?</hi> Perhaps under 1000 <hi>l. per Annum</hi> would be ſufficient for this good Work: and if all thoſe Gentlemen who keep ſo many devouring expencefull <hi>Hounds</hi> in this Nation, were to pay but 2 <hi>d.</hi> for each of their Dogs-heads, it would anſwer this high and noble End. Beſides that great <hi>influence</hi> theſe <hi>ſelect Practitioners</hi> would have over many others in the ſeveral Courts.</p>
+            </div>
+            <div n="3" type="consideration">
+               <pb n="14" facs="tcp:56976:10"/>
+               <head>III. CONSIDERATION.</head>
+               <p>
+                  <hi>That there be a ſettled Allowance or Yearly Income, eſtabliſhed for defraying the neceſſary expences in carrying on of this Work of RE<g ref="char:EOLhyphen"/>FORMATION of Manners,</hi> (or ſuch like) <hi>which by Gods bleſſing hath been ſo happily begun amongſt us;</hi> and which at preſent is brought unto ſuch a good iſſue, even from very ſmall beginnings [as may be more fully underſtood by peruſing the late <hi>Inſtrument</hi> at the cloſe of this Book]. Herein our pious <hi>Magiſtrates</hi> may yet more and more expreſs their great zeal for the glory of God, in doing ſome <hi>ſingular good thing</hi> toward the more effectual <hi>execution</hi> of thoſe many excellent <hi>Laws</hi> againſt the <hi>Profaneneſs</hi> and <hi>Debauchery,</hi> which ſo much abounds in theſe three Nations, and in this City.</p>
+               <p>And whereas divers of the <hi>Right Reverend</hi> BISHOPS, together with the Publick MAGISTRATES of <hi>this City,</hi> have already given all good Men reaſon to bleſs God for ſuch ample proofs of their <hi>Zeal</hi> and <hi>Piety,</hi> in countenancing <hi>this Reformation,</hi> (as it is now begun) and for which our humble thanks and ac<g ref="char:EOLhyphen"/>knowledgments are always due (firſt unto Almighty GOD, and next unto THEM). So likewiſe we all have the ſame en<g ref="char:EOLhyphen"/>couraging ground to hope that <hi>they</hi> who have thus far ſet their helping hand, to a Work of ſuch <hi>
+                     <g ref="char:V">Ʋ</g>niverſal Acceptance</hi> with all Men, [other <hi>Perſons of Quality</hi> alſo having honoured it, to ſay no more] will likewiſe improve their utmoſt intereſt to <hi>Eſtab<g ref="char:EOLhyphen"/>liſh this Reformation</hi> on the ſame <hi>Foundation</hi> (before named) as whereby <hi>their Majeſties</hi> moſt happy Government may yet more and more reſemble the <hi>Bright-morning Star</hi> (that wellcome <hi>Har<g ref="char:EOLhyphen"/>binger</hi> of our <hi>approaching DAY).</hi>
+               </p>
+            </div>
+            <div n="4" type="consideration">
+               <head>IV. CONSIDERATION.</head>
+               <p>
+                  <hi>To ſupplicate their Majeſties, That the publick Play-Houſes may be ſuppreſſed.</hi>
+               </p>
+               <p>It is not denyed but that private <hi>Balls,</hi> and ſuch like <hi>interludes</hi> may be lawful for <hi>Princes</hi> and <hi>Nobles,</hi> to recreate them<g ref="char:EOLhyphen"/>ſelſes therewith (at fit times and ſeaſons); yet with reſpect to the <hi>publick Play-Houſes,</hi> theſe following Arguments are in all becoming humility preſented to <hi>Their Majeſties</hi> ſerious and mature conſideration, as their Piety and Wiſdom ſhall think fit to determine; leaving the iſſue unto God, who turneth the
+<pb n="15" facs="tcp:56976:10"/>hearts of <hi>Kings,</hi> as wonderfully as the great <hi>River</hi> of Water, and the Chanels of the Deep, whenever he pleaſes.</p>
+               <p n="1">1. It is the <hi>opinion</hi> of every individual perſon that makes any ſerious Profeſſion of Religion, and is of a ſober life and con<g ref="char:EOLhyphen"/>verſation, that the <hi>Publick Play-Houſes</hi> have a direct tendency (in their ſad <hi>Effects</hi>) to corrupt and vitiate the minds of the ge<g ref="char:EOLhyphen"/>nerality of all ſorts, more or leſs, though more immediately of <hi>all who frequent them;</hi> and by conſequence alſo of thoſe who <hi>converſe</hi> with ſuch, (though they do not attend on theſe <hi>Houſes,</hi> through that <hi>vain</hi> and <hi>irreligious</hi> ſpirit that ſo dangerouſly infects thoſe of <hi>their acquiantance,</hi> with whom they aſſociate (being of ſuch an <hi>aſſimulating</hi> nature, as we too ſadly find it). They all agree (who make any ſerious profeſſion of Godlineſs) that in <hi>theſe Houſes, Piety</hi> is ſtrangely <hi>ridiculed,</hi> the holy reverend and dreadful <hi>Name</hi> of GOD <hi>profaned,</hi> and <hi>his Glory</hi> and <hi>Intereſt</hi> rendred <hi>contemptible</hi> or <hi>vile;</hi> and the <hi>City</hi> (and all others who frequent theſe places, eſpecially the Youth) allured hereby in<g ref="char:EOLhyphen"/>to the love of, and delight in <hi>Idleneſs,</hi> exceſſive <hi>Vanity, Revellings, Luxury, Wantonneſs Laſciviouſneſs, Whoredoms,</hi> and ſuch <hi>Debauche<g ref="char:EOLhyphen"/>ries</hi> (by <hi>Oaths, looſeneſs of converſation, corrupt Atheiſtical principles,</hi> touching <hi>God</hi> and <hi>Religion,</hi> and almoſt a total neglect of any thing that may be truly termed <hi>practical Piety</hi>) through theſe <hi>Nurſe<g ref="char:EOLhyphen"/>ries</hi> and <hi>Seminaries</hi> of <hi>Vice.</hi> [Yet ſometimes alſo under a <hi>Vizard-Mask,</hi> or pretence of exalting and dignifying <hi>Vertue,</hi> and <hi>diſ<g ref="char:EOLhyphen"/>honouring Vice,</hi> for the <hi>Devil</hi> will want none to plead for his <hi>School</hi>] Not that it follows, that <hi>every perſon</hi> who <hi>ſees Plays,</hi> is <hi>in this degree corrupted by them:</hi> but, that it is the <hi>univerſal opini<g ref="char:EOLhyphen"/>on</hi> of all truly Sober and Godly Men, That <hi>nothing in the world</hi> hath a greater <hi>tendency to corrupt the generallity of thoſe who fre<g ref="char:EOLhyphen"/>quent theſe Publick Houſes,</hi> than <hi>attendance from time to time upon their interludes,</hi> and is one great reaſon why the ſins before named (to which others might be added alſo) are be<g ref="char:EOLhyphen"/>come ſo deeply <hi>Radicated,</hi> and now <hi>Habitual</hi> (for theſe 30 years laſt paſt) unto the Conſtitution of our <hi>Engliſh Nation;</hi> as whereby not only our <hi>Bodies</hi> become a Prey to many Diſeaſes, but our very <hi>Minds</hi> alſo are corrupted, and the natural Vigour and Manlineſs, Proweſs and Valour of our Kingdom (for which <hi>Britany</hi> formerly was in ſo much Renown among all Nations) is hereby in a manner wholly (or very much) loſt, and <hi>effe<g ref="char:EOLhyphen"/>minate</hi> Puſillanimity bred and cheriſhed hereby.</p>
+               <p n="2">2. It is more than a little ſuſpected, that it hath been and ſtill is one grand deſign of thoſe <hi>Prieſts</hi> and <hi>Jeſuits,</hi> who adhere unto the <hi>French Intereſt,</hi> to introduce and keep up theſe <hi>Publick Play-Houſes</hi> on purpoſe.</p>
+               <p n="1">
+                  <pb n="16" facs="tcp:56976:11"/>1. To <hi>obudrate the Conſcience of Profeſſors,</hi> and caſt ſuch a miſt before their Eyes that they may thereby be prepared to entertain <hi>thoſe Principles</hi> which ſo much tolerate and encourage theſe Vices that are ſo deſtructive to a Nation.</p>
+               <p n="2">2. To <hi>Mollifie and Eſſeminate the Engliſh Valour,</hi> that we may be broken in pieces when our Martial Neighbour Nation ſhall Invade us.</p>
+               <p n="3">3. The <hi>Devil actually appeared amongſt them,</hi> when that ſad <hi>Tra<g ref="char:EOLhyphen"/>gedy</hi> of <hi>Fauſtus</hi> (the Conjurer) was acted, (a dreadful token of God's highly provoked Wrath.) then when the unquenchable Fire of Hell and Everlaſting Burnings were repreſented to the Spectators, (together with the external Appearance of <hi>Mock Devils</hi>) as a Jeſt only to raiſe Sport and Laughter at thoſe Realities, that if felt, will create the tremendous <hi>Worm in Conſcience that never dyes;</hi> as if the generality of obdurate Sinners had a deſign hereby to render the <hi>Damnation</hi> of precious Souls either a <hi>Figment,</hi> or a matter of no ſuch formidable conſequence, as a meer <hi>Scarecrow</hi> ſeems to be amongſt the Fowls. The amazing Horror and Conſternation that was then amongſt the Spectators ſtartled them at that moment, but it ſoon went off (as a <hi>Thunderclap,</hi> that affects but in the moment only.) Where could the <hi>Devil</hi> better ſhew himſelf, than either in the moſt remote parts of the <hi>Infidel-World,</hi> where he is worſhipped in Bodily Shape, or elſe on <hi>this moſt prophane Spot</hi> here in <hi>London,</hi> which he may too reaſonably take for his <hi>own Ground,</hi> ſince the <hi>Heathen, who are called by God's Name,</hi> (even in this <hi>Metropolis</hi> of <hi>Great Bri<g ref="char:EOLhyphen"/>tain</hi>) invoke this <hi>Helliſh Fiend,</hi> and provoke him thus to appear amongſt them.</p>
+               <p n="4">4. God hath, in his moſt juſtly incenſed Anger and judicial Wrath, ſuffered divers of the <hi>Actors</hi> on theſe publick Stages of Wickedneſs to <hi>harden</hi> their own Hearts, to a moſt deſperate de<g ref="char:EOLhyphen"/>gree of <hi>Seared Conſcience;</hi> as whereby they have offered (like perſons poſſeſſed with Diaboliſm) the <hi>higheſt Affront</hi> that can be at preſent thought or deviſed, both unto <hi>God's Goodneſs, Merciful Patience,</hi> and <hi>Long-ſuffering, Meekneſs, Gentleneſs,</hi> and <hi>Forbearance,</hi> (which is intended to lead all ſorts unto <hi>Repentance</hi>) and alſo unto his <hi>Severity of Juſtice</hi> and <hi>provoked Indignation.</hi> A moſt notorious Inſtance we have had in the late K. <hi>Charles</hi>'s Reign, before whom the <hi>Comedians</hi> brought the <hi>Holy Bible</hi> on the Stage, as if they had intended to dreſs up <hi>the Scriptures</hi> in a ridiculous diſguiſe, (together with the truly Conſcientious Chriſtian, who profeſſeth, before God and his Church, to live up according to the plain in<g ref="char:EOLhyphen"/>telligible Rules and Precepts therein contained) as ſurely as ever the <hi>Jews</hi> put on the Purple Robe and Crown of Thorns on <hi>Our
+<pb n="17" facs="tcp:56976:11"/>Saviour,</hi> on purpoſe to expoſe his Sacred Perſon an Object of moſt publick Ignominy and Reproach; and had not that <hi>King</hi> forbid them ſuch an Act of Villany, it is not to be queſtioned but they had long e're this exploded the common <hi>Principles</hi> of a <hi>Deity,</hi> whoſe expreſs <hi>Image</hi> (written with the immediate Inſpiration of the <hi>Spirit,</hi> called the <hi>Finger of</hi> GOD) is <hi>this Sacred Word of His, the mighty power of</hi> God, <hi>through Faith unto Salvation in all who be<g ref="char:EOLhyphen"/>lieve.</hi>
+               </p>
+               <p>Another notorious Inſtance, how far they are left of God and his Spirit unto a <hi>Reprobate Mind,</hi> we have lately had amongſt us, when the <hi>Comedians</hi> in <hi>Bartholomew Fair</hi> were going to Act that <hi>Tremendous Tragedy</hi> which a few months ſince hapned at <hi>Jamaica,</hi> by that dreadful EARTHQUAKE, which ſwallowed up ſo many Hundreds alive into their Grave: And we have been credibly in<g ref="char:EOLhyphen"/>formed, That ſome of them, or ſuch-like Brethren in Iniquity, (far worſe than Devils Incarnate, who believe and tremble at the conſideration of GOD and his Righteous Judgments) have <hi>drank a Health to the next Earthquake!</hi> an <hi>Impiety</hi> almoſt beyond a Mi<g ref="char:EOLhyphen"/>racle, and not to be mentioned without greateſt abhorrence and deteſtation.</p>
+               <p>Thus we ſee to what <hi>ſuperlative degree of Atheiſtical Prophane<g ref="char:EOLhyphen"/>neſs</hi> the <hi>Antecedents, Concomitants,</hi> and <hi>Conſequences</hi> of theſe <hi>publick Plays</hi> and <hi>Comedies</hi> do lead Men, and how dangerous it may be to a <hi>City</hi> or <hi>Nation</hi> to tolerate or countenance ſuch <hi>Places,</hi> where GOD, and Man's <hi>Salvation,</hi> His WORD, His <hi>Judgments, Hea<g ref="char:EOLhyphen"/>ven, Hell,</hi> and <hi>Danmation, &amp;c.</hi> (thoſe great and weighty Concerns of the whole Intellectual Creation) are in ſuch a prophane man<g ref="char:EOLhyphen"/>ner expoſed and proſtituted unto <hi>Contempt, Shame,</hi> and <hi>Ridicule.</hi> And whereas the numerous <hi>Attendants</hi> upon, and <hi>Spectators</hi> of, theſe Publick Interludes (who are of all Sorts and Ranks) may for a while ſtifle their own Convictions, and skin over their ſecret Wounds, by objecting, That they are not the <hi>Actors,</hi> and that others would fill up the Places if they did abſent themſelves, and many ſuch-like Evaſions, which are but Fig-leaves, to cover over their own <hi>Nakedneſs;</hi> yet they would do well to conſider that clear Text, (<hi>Rom.</hi> 1. and the laſt Verſe) where taking <hi>delight</hi> in thoſe who commit open and ſcandalous Sins, is looked upon by God as a greater degree (or, at leaſt, as great a height) of <hi>Sin,</hi> as if They were the Criminals themſelves,—<hi>Who knowing the Judg<g ref="char:EOLhyphen"/>ments of God, that they who commit ſuch things are worthy of death, not only do the ſame, but have pleaſure in them that do them.</hi>
+               </p>
+            </div>
+            <div n="5" type="consideration">
+               <pb n="18" facs="tcp:56976:12"/>
+               <head>V. CONSIDERATION.</head>
+               <p>
+                  <hi>That great Care be taken to put a Difference between the Clean and the <g ref="char:V">Ʋ</g>nclean Members (the Vile and the Honourable) in the Viſible Church; and not to admit all ſorts of looſe Profeſſors unto the Holy Communion, or Supper of the Lord.</hi>
+               </p>
+               <p>Having in a more ſpecial manner hitherto addreſs'd our ſelves unto the Publick <hi>Magiſtrates,</hi> we cloſe up the wholewith an hum<g ref="char:EOLhyphen"/>ble and importunate Requeſt and Entreaty, That the ſeveral MINISTERS of the Church (or Churches) of Chriſt, who have the Charge, Care, and Inſpection over their whole Flock, committed unto them by Chriſt (whether thoſe of the Church of <hi>England,</hi> or other <hi>Congregations</hi>) would yet make more and more Conſcience of <hi>ſuſpending</hi> from the <hi>Lord's Table</hi> all ſuch Members of theirs, who are notoriouſly known and obſerved to be of a <hi>ſcan<g ref="char:EOLhyphen"/>dalous Life</hi> and <hi>Converſation,</hi> [<hi>viz.</hi> Common <hi>Swearers, Curſers, Drunkards, Revellers, Haunters</hi> of Publick-Houſes of <hi>common Infamy, Prophaners</hi> of the Lord's day, common <hi>Gameſters, Riotous,</hi> and ſuch-like, and all who are notoriouſly ſuſpected to be ſuch, or to be guilty of <hi>Adultery</hi> or <hi>Fornication,</hi> ſecretly lived in, and not openly repenting thereof.] We all know, That the <hi>Orthodox Doctrin</hi> of the Church of <hi>England,</hi> and the Rules (or Canons) of her <hi>Diſci<g ref="char:EOLhyphen"/>pline,</hi> (as likewiſe of all other <hi>Reformed Churches</hi> beyond the Seas, do poſitively and expreſly forbid all ſuch <hi>ſcandalous perſons</hi> from coming to the <hi>Sacrament,</hi> and ſtrictly enjoyns them <hi>All</hi> to forbear that <hi>Sacred Ordinance</hi> whilſt they continue in their Sins, leſt hereby they prophane the <hi>Holy Myſteries</hi> of the <hi>Communion of the Body and Blood of our Lord Chriſt,</hi> without a ſcrious and impar<g ref="char:EOLhyphen"/>tial <hi>Examination</hi> of themſelves, and a viſible manifeſtation of <hi>Re<g ref="char:EOLhyphen"/>pentance,</hi> in caſe any are guilty of thoſe or the like <hi>open</hi> and <hi>ſean<g ref="char:EOLhyphen"/>dalous Sins.</hi> And we are obliged in Charity to believe, that all the pious <hi>Miniſters</hi> of the <hi>Church</hi> do take a <hi>conſciencious care</hi> here<g ref="char:EOLhyphen"/>in: But what ſhall we ſay? In this debauched Age, wherein Sin hath got ſuch an univerſal rooting, how many <hi>looſe Paſtors</hi> or <hi>Mi<g ref="char:EOLhyphen"/>niſters</hi> are there throughout this City, (ſhall we ſay, or rather throughout the whole Nation?) who are regardleſs in this mat<g ref="char:EOLhyphen"/>ter of ſo great conſequence? And we all may appeal to any ſober underſtanding Perſon, whether <hi>this</hi> he not one of the great Cauſes or Grounds of that Offence, which many have taken at the Church of <hi>England,</hi> and by reaſon whereof there hath been ſuch a number of <hi>Diſſenters,</hi> as we ſee are at this day. And this is cer<g ref="char:EOLhyphen"/>tainly
+<pb n="19" facs="tcp:56976:12"/>true, that many young Perſons, who have been looſely educated, and ſcarce know the <hi>Principles of Chriſtianity</hi> and <hi>Church-Communion, &amp;c.</hi> yet have long ſince, and even at this day, imbibed (of their own accord, without any Document from others) a real <hi>Diſreliſh</hi> and <hi>Diſeſteem</hi> of the Church of <hi>England,</hi> and that for no other reaſon than this <hi>palpable Corruption</hi> of many of the <hi>Miniſters</hi> thereof in this neglect of their <hi>Diſcipline,</hi> ſo con<g ref="char:EOLhyphen"/>trary to the <hi>Canons</hi> of the <hi>Church.</hi> And when they ſee ſuch an <hi>Epidemical Diſtemper</hi> overſpreading it ſelf, (without <hi>Redreſs</hi>) the conſequence thereof may be ſuch, as is not difficult for any conſide<g ref="char:EOLhyphen"/>ring perſons to conjecture. And it muſt needs be for a daily La<g ref="char:EOLhyphen"/>mentation, that the Complexion of the Chriſtian Church (though <hi>Anti-Roman</hi>) looks ſo like that of the highly degenerated Church of the <hi>Jews,</hi> of which the <hi>Prophets</hi> ſo greatly complained, even of old, under their <hi>Temple-Worſhip</hi> at <hi>Jeruſalem, Ezek.</hi> 22. <hi>v.</hi> 25. <hi>They have devoured Souls.</hi>—Ver. 26. <hi>Her Prieſts have violated my law they have prophaned my holy things; they have put no difference be, tween the holy and prophane, nor between the unclean and the clean — and I am prophaned amongſt them.</hi> Compared with <hi>Mal.</hi> 1.6, 7: <hi>Ye offer polluted Bread upon my Altar,</hi> &amp;c.</p>
+               <p>Many <hi>Mountains</hi> of <hi>Objections</hi> and <hi>Difficulties</hi> ſeem to lye in the way: None that we know do intend to propoſe the Removal of <hi>Theſe Miniſters, &amp;c.</hi> but muſt leave that to the Wiſdom of thoſe who better underſtand their Duty, than we may preſume to be the Judge thereof: But all that we humbly entreat, is, That there may be ſome ſuch Way or <hi>Medium</hi> put into practice, as may re<g ref="char:EOLhyphen"/>dreſs this Corruption in the <hi>Diſcipline</hi> of ſeveral <hi>Parochial Chur<g ref="char:EOLhyphen"/>ches,</hi> (or other <hi>Congregations</hi>) who need this, or ſome ſuch-like Way or Method, whereby, if poſſible, to prevent the further ſpreading of this Malady in the Church. Wherefore till the Wiſ<g ref="char:EOLhyphen"/>dom of our <hi>Superiours</hi> ſhall think fit to find out ſome better Mea<g ref="char:EOLhyphen"/>ſures, We humbly propoſe the following Way or Method, as a preſent Expedient only, and this alſo in becoming Modeſty, in or<g ref="char:EOLhyphen"/>der to the aforeſaid Neceſſary End.</p>
+               <p>Suppoſing therefore that the ſeveral <hi>Miniſters,</hi> who have the im<g ref="char:EOLhyphen"/>mediate Care and Charge of their reſpective Pariſhes or Congrega<g ref="char:EOLhyphen"/>tions, chuſe out amongſt ſome of their Flock, divers Perſons of known <hi>Piety</hi> and <hi>Integrity,</hi> unto whoſe Care and Fidelity to com<g ref="char:EOLhyphen"/>mit the Truſt of <hi>Inſpecting into the Lives and Converſations of Thoſe,</hi> within their own <hi>Pariſh,</hi> or <hi>Congregation,</hi> who are moſt known or ſuſpected for <hi>more open and ſeandalous Vice and Debauchery,</hi> that ſo they may be Ear and Eye-witneſſes thereof, and of their frequent Relapſe or Continuance therein, [no perſons being to know <hi>who</hi>
+                  <pb n="20" facs="tcp:56976:13"/>theſe <hi>Inſpecters</hi> are but the <hi>Miniſter</hi> and themſelves] and ſo accor<g ref="char:EOLhyphen"/>dingly to inform the <hi>Miniſter</hi> with Particulats, which their own Eves, and Ears, and Obſervation can and ſhall atteſt: And that the <hi>Miniſter,</hi> every Lord's-day, after Evening Sermon, in the pre<g ref="char:EOLhyphen"/>ſence of the <hi>Congregation,</hi> cauſe the <hi>Names</hi> and <hi>Crimes</hi> to be diſtinct<g ref="char:EOLhyphen"/>ly read (as they ſtand upon this Record) declaring, That <hi>theſe perſons</hi> are to be Suſpended from the <hi>Lord's Table,</hi> till they purge themſelves by open <hi>Confeſſion,</hi> and viſible Tokens of <hi>Repentance;</hi> and if they do not by a limited time prefixed, after they have had Notice of their Crime; then to be proceeded againſt according to the <hi>Legal Comminations</hi> and <hi>Cenſures</hi> of the Church, (their <hi>Silence</hi> to be taken for a <hi>tacite Confeſſion,</hi> and Token of their obſtinate per<g ref="char:EOLhyphen"/>ſiſtance in their Sins.)</p>
+               <p>To cloſe up the whole of this Diſcourſe in a word, If it ſhall pleaſe God to put it into the Hearts of our pious Magiſtrates and Miniſters, to uſe their utmoſt Intereſt and Endeavour to promote a <hi>National Reformation</hi> in the Particulars before mentioned, or in any other adequate unto all or ſome of the great <hi>Ends,</hi> ſo neceſſary to be accompliſhed. This may be the moſt effectual Means to anſwer GOD<hi>'s</hi> Expectations from <hi>theſe Nations,</hi> (and more eſpecially from <hi>England</hi> and <hi>London</hi>) and thereby to prevent thoſe <hi>Judg<g ref="char:EOLhyphen"/>ments</hi> which we have yet all ſo much reaſon to fear and expect. Then we need not be too ſollicitous what any Man can do unto us, or that Arm of Fleſh, Strength, or Policy of our Common <hi>Alver<g ref="char:EOLhyphen"/>ſary;</hi> for GOD will then be on our ſide, and perfect thoſe wondrous Mercies and Deliverances He hath begun to work out for us. Then will THE LORD OF HOSTS go before us, and <hi>Fight all our Battels, and make our way ſmooth and proſpe<g ref="char:EOLhyphen"/>rous before our Face, and guide us by his <g ref="char:V">Ʋ</g>nerring Counſel, and di<g ref="char:EOLhyphen"/>rect all our Steps, and lead us into the Way of Peace, Safety, Honour and Renown.</hi> Then will He delight to do greater and greater things for us, whilſt He puts a Fear and Dread on our Enemies. Then will He make <hi>our walls Salvation, and our gates Praiſe.</hi> This <hi>Bleſſed Reformation</hi> will be a greater <hi>Security</hi> to our KING and QUEEN, and to <hi>Their Excellent Government,</hi> and to <hi>their King<g ref="char:EOLhyphen"/>doms</hi> and <hi>Dominions</hi> (in particular alſo unto this Great and Popu<g ref="char:EOLhyphen"/>lous City) and to the <hi>Church of Chriſt,</hi> and his <hi>Intereſt</hi> and <hi>Goſpel,</hi> than all our <hi>Warlike Preparations,</hi> of Stores and Magazines, or than all our Treaſury of Gold and Silver, or than all our <hi>Coun<g ref="char:EOLhyphen"/>cils, Wiſdom, Policy,</hi> and <hi>Excellent Conduct,</hi> Proweſs and Mangifi<g ref="char:EOLhyphen"/>cence of our <hi>Moſt Illuſtrious Monarch,</hi> or than all our <hi>Armies,</hi> and <hi>Confederate Forces</hi> by Land or Sea.</p>
+               <pb n="21" facs="tcp:56976:13"/>
+               <p>And who can tell, but GOD may denounce that <hi>Woe</hi> againſt All who ſhall attempt to obſtruct this <hi>National Reformation,</hi> in moſt humble manner thus preſented to the Higher Powers [our Supreme <hi>Magiſtrates</hi> and <hi>Miniſters,</hi> the pious Governours of the <hi>Civil</hi> and <hi>Eccleſiaſtick State?</hi>]</p>
+               <p>
+                  <hi>—Woe be unto that man, by whom this offence ſhall come: It had been better for him that a mill-ſtone were hung about his neck, and that he was caſt into the bottom of the ſea.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="treatise">
+            <pb n="22" facs="tcp:56976:14"/>
+            <head>THE INSTRUMENT FOR Reformation.</head>
+            <p>WHEREAS His Majeſty, in his Letter to the Biſhops, hath declared his moſt earneſt deſire of a General Reformation of the Lives and Manners of all his Subjects: And the Queen's Majeſty in her Letter to the Juſtices of the Peace, of the County of <hi>Middleſex</hi> at their Seſſions at <hi>Hicks's-Hall,</hi> hath Charged and Required Them to uſe the moſt effectual Methods for putting the Laws in Execution againſt all manner of Profaneneſs and Wickedneſs: Whereas alſo, both Their Majeſties have lately Iſſued out Their Proclamation a<g ref="char:EOLhyphen"/>gainſt Vitious, Debauched and Profane Perſons; wherein they declare the deep Senſe of the Goodneſs and Mercy of Almighty God (by whom Kings Reign) in giving ſo happy Succeſſes to their Endeavours for the Reſcuing of theſe Kingdoms from Po<g ref="char:EOLhyphen"/>piſh Tyranny and Superſtition, <hi>&amp;c.</hi> So alſo they are not leſs touched with a Reſentment, that notwithſtanding theſe great. De<g ref="char:EOLhyphen"/>liverances, Impiety and Vice ſtill abounds in this Kingdom: And that the Execution ofmanygood Laws that have been made for the Suppreſſing and Puniſhing thereof, hath been groſly neg<g ref="char:EOLhyphen"/>lected, to the great Diſhonour of God and Religion. <hi>Where<g ref="char:EOLhyphen"/>fore</hi> they further declare their Princely Reſolution to diſcoun<g ref="char:EOLhyphen"/>tenance all manner of Vice; and for that purpoſe they ſtraitly Charge, Require and Command all Judges, Mayors, Sheriffs,
+<pb n="23" facs="tcp:56976:14"/>Juſtices of the Peace, and all other Officers Eccleſiaſtical and Civil, in their reſpective Stations, to Execute the Laws againſt Blaſphemy, profane Swearing and Curſing, Drunkenneſs, Lewd<g ref="char:EOLhyphen"/>neſs, Profanation of the Lord's Day, or any other diſſolute, immoral or diſorderly Practice, as they will anſwer it to Al<g ref="char:EOLhyphen"/>mighty God, and upon pain of their Majeſties higheſt Diſpleaſure. And for the more effectual Proceedings herein. They direct and command Judges and Juſtices of the Peace, to give ſtrict Charges at the reſpective Aſſizes and Seſſions, for the due Proſecution and Puniſhment of all Perſons that ſhall preſume to offend in any the Kinds aforeſaid; and alſo of all Perſons that, contrary to their Duty, ſhall be remiſs or negligent in putting the ſaid Laws in Exe<g ref="char:EOLhyphen"/>cution; as may be ſeen more at large in the ſaid Royal Proclama<g ref="char:EOLhyphen"/>tion, given at their Majeſties Court at <hi>White-Hall, Jan.</hi> 21. 1691/2, in the third Year of their Reign.—In purſuance hereof, ma<g ref="char:EOLhyphen"/>ny excellent Orders have been given out, particularly by the Right Honourable the Lord Mayor of the City of <hi>London:</hi> The Bench of Juſtices at their General Quarter-Seſſions held forthe County of <hi>Middleſex,</hi> and alſo by the Juſtices at their General Quarter-Seſſions held for the County of <hi>Surry.</hi> Wherein they Charge and Command all Counſtables, Headboroughs, Church<g ref="char:EOLhyphen"/>wardens, <hi>&amp;c.</hi> to uſe their utmoſt Endeavours to bring all Offen<g ref="char:EOLhyphen"/>ders againſt the Laws aforeſaid to condign Puniſhment, ſevere<g ref="char:EOLhyphen"/>ly meancing their Negligence, but promiſing to their Dili<g ref="char:EOLhyphen"/>gence herein all Encouragement. Yet notwithſtanding all this, Vice and Wickedneſs abound in every place, Lord's Days are ſtill profaned; Drunkenneſs and Lewdneſs eſcape unpuniſhed; our Ears in moſt Companies are filled with Imprecasions of Dam<g ref="char:EOLhyphen"/>nation, the Corners of our Streets every where echo the hor<g ref="char:EOLhyphen"/>rible Sounds of Oaths, Curſes, and blaſphemous Execrations. The blame of all this lies undoubtedly (for the moſt part) at the doors of Inferiour Officers; Authority (both Supream and Subordinate) having ſufficiently acquitted it ſelf, and worthily acted its part, in giving forth ſtrict Commands as aforeſaid: But theſe (though they are intruſted to be the only immediate Executors of the Laws) have neglected to put them in Executi<g ref="char:EOLhyphen"/>on. Now as Execution is the life of Laws; ſo their Non-execution (being equivalent to an actual Repeal) renders them uſeleſs, or as if they never had a Being: Hence it is that Wickedneſs grows rampant, and Profaneneſs rides triumphant, trampling upon all the Zeal and Piety of Virtuous Governours and Legiſlators, making all their Religious Intentions and Reſolutions void and of none effect. How much the ſaid Officers are concerned in
+<pb n="24" facs="tcp:56976:15"/>this Guilt, and which of them are moſt faulty, we may eaſily ſee, if we divide them into two Ranks, and take a view, firſt, of thoſe that will not do their Duties; being conſcious of their own wicked Inclinations and Actions, they will not puniſh that Impiety in others, which they allow of in themſelves. There are other Officers that are more conſcientious: Of theſe, ſome are Tradeſmen, which willingly would, but cannot ſpare time to give that Attendance that is requiſite for the full diſcharge of their Offices, without a manifeſt neglect of their Shops, Trades and other Buſineſs. And thus the beſt Laws for puniſhing and ſuppreſſing of Vice and Wickedneſs, that are already, or for the future can be made and enforced, though by a thouſand Pro<g ref="char:EOLhyphen"/>clamations and ſubordinate Orders, will all prove ineffectual, unleſs put in Execution by Under-Officers: Of theſe (as afore-mentioned) ſome are profane, and will not; others would, (and ſomething they do towards it) but have not time to do to the full of what is required of them. To remedy theſe great Inconveniencies, and to anſwer the Great and Noble Ends of our Governours, in making good Laws, and preſſing their Executi<g ref="char:EOLhyphen"/>on, the Expedient, (as drawn up in the following Form,) is moſt humbly propoſed.</p>
+            <q>We who are Inhabitants of the Cities of <hi>London</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and Pariſhes adjacent, both in the Counties of <hi>Middleſex</hi> and <hi>Surry,</hi> having an Eye to the Honour of God and the King, and the publick Benefit of the Nation: And being encouraged by the late happy Succeſs that hath attended the induſtrious Endeavours of the <hi>Tower-Hamlets;</hi> whereby [according to a Method mentioned in their printed Paper, or Inſtrument, <hi>That declaring honeſt and joynt deſign for the general ſuppreſſing of</hi> Bawdy-houſes, <hi>&amp;c.</hi>] they have with more than ordinary Dili<g ref="char:EOLhyphen"/>gence, and great expence of their Time and Money, in the ſpace of two or three Years, (as lately Affidavit hath been made before the Bench of Juſtices at <hi>Hicks</hi>'s <hi>Hall,</hi>) not only brought to due Puniſhment, according to Law, ſeven or eight hundred Criminals; but alſo generally routed thoſe naughty Houſes, which formerly abounded amongſt them.] And being fluenced by that good old Principle or Axiom, <hi>Bonum quo communius, eo melius,</hi> reſolve to uſe our hearty Endeavours, that ſo good a Work may no longer be conſined within ſuch narrow Limits, but be farther promoted for more general Advantage. WHEREFORE we agree, upon our own Coſts and Charges to imploy and maintain a competent Num<g ref="char:EOLhyphen"/>ber
+<pb n="29" facs="tcp:56976:15"/>of ſuch fitting Perſons, as we ſhall chooſe, to aſſiſt the ſe<g ref="char:EOLhyphen"/>veral Conſtable and other Officers, in the Wards of the ſaid City of <hi>London,</hi> and in other of the ſaid adjacent Pariſhes, in putting in Execution thoſe good Laws aforeſaid; <hi>viz.</hi> by obſerving and taking notice of all thoſe, that for the time to come, ſhall impudently dare, in Rebellion againſt the Laws of God and Man, to Swear and Curſe, to profane the Lord's day, or be guilty of the loathſom Sin of Drunkenneſs; alſo by ſearching out the lurking Holes of Bawds, Whores, and other filthy Miſcreants, in order to their Conviction and Puniſhment according to Law. We promiſe to take care [what in us lies] that none ſhall be connived at or Favour or Affection, and none proſecuted out of Malice or Hatred. And to the end that nothing may be done illegally, we will have frequent Recourſe to thoſe that are Learned in the Law, in order to act by their advice, Counſel and Direction. In our contending againſt thoſe Abominations that threaten the Deſtruction of the whole Kingdom. An angry Look of God not long ſince made the Earth Tremble. And may we not fear, without Reformation, the next Look may be to our Ruine and Deſtruction; What are we better than the Cities of <hi>Naples, Smyrna, Inſpruck, Sicily,</hi> and <hi>Jamaica</hi> who lately thus periſhed? one great Reaſon why Wicked<g ref="char:EOLhyphen"/>neſs ſo abounds in this Nation, is, becauſe no more private Hands are engaged againſt it; all is left to have or ſix Officers in a Pariſh, though it may be one half, if not two thirds of them, for the generality, inſtead of being Suppreſſers, are rather Supporters and Encouragers of it, either by neglect of Duty, or by giving bad Example. To conclude, what dreadful Judg<g ref="char:EOLhyphen"/>ments may we not fear, if we continue unreformed? But if this bleſſed Work of Reformation [as we have great hopes] proſpers, what Bleſſings may we not expect? The Refor<g ref="char:EOLhyphen"/>mation we are endeavouring in this great City and Suburbs by the continuance of God's Bleſſing, and of our Magiſtrates favourable Countenance, effectually to accompliſh we hope will influence the whole Nation, (with <hi>Scotland</hi> and <hi>Ireland</hi>) in ſuch wiſe, that we all with one Heart, one Mind, one Soul, might fear God, honour the King, and live in Love, Unity Peace and Concord one with another. <hi>Amen,</hi> and <hi>Amen.</hi>
+            </q>
+            <trailer>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+            </trailer>
+         </div>
+         <div type="account">
+            <pb n="30" facs="tcp:56976:16"/>
+            <head>A true Relation of ſeveral <hi>Barbarous Villanies</hi> and <hi>Mur<g ref="char:EOLhyphen"/>ders</hi> detected in and about <hi>London,</hi> by ſome <hi>Conſtables</hi> and other <hi>Officers,</hi> aſſiſted by ſome of the <hi>Society for Reformation.</hi> Whereunto is Added an Account of a Bloody SLAUGHTER-HOUSE in <hi>Roſemary Lane,</hi> near <hi>Eaſt-Smithfield:</hi> Diſcovered by <hi>A. M.</hi> (one of the Conſtables) belonging to the Society.</head>
+            <head type="sub">
+               <hi>The whole having been Sworn before</hi> Two <hi>of</hi> his Majeſties Juſtices of the Peace <hi>for</hi> London <hi>and Middleſex.</hi>
+            </head>
+            <argument>
+               <p>A <hi>Long</hi> Harangue <hi>is not here intended, but only a Short (yet <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> and true) Narrative of ſuch Matters of Fact,</hi> &amp;c. <hi>as may not on<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> for up All Perſons of common Morality and Sobriety, to</hi> Abomi<g ref="char:EOLhyphen"/>nate <hi>the frightful Appearance of VICE</hi> (<hi>dreſs'd up in the</hi> black Spo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>of</hi> Looſneſs <hi>and</hi> Debaucherie) <hi>but likewiſe to</hi> Mourn <hi>and</hi> La<g ref="char:EOLhyphen"/>ment <hi>by reaſon of that</hi> Univerſal Contagion <hi>of Sin and Wicked<g ref="char:EOLhyphen"/>neſs, which hath ſo dangerouſly Overſpread this City (and Nation alſo) and Infected ſo many perſons of all Ranks, both young and old; each</hi> Sex <hi>alſo, and almoſt every Place and corner of the Land: Hoping that this Relation may have ſome Influence on all Good Men, to Excite their ardent</hi> Sighs <hi>and</hi> Prayers <hi>to GOD that he would New-animate our Pious</hi> Magiſtrates, <hi>and</hi> Clergie <hi>in a more eſpe<g ref="char:EOLhyphen"/>cial manner, to improve their great Intereſt to Promote and Encou<g ref="char:EOLhyphen"/>rage ſuch a</hi> Society, (<hi>or</hi> Societies) <hi>as ſhall conſcienciouſly regard the Glory and Honour of GOD, the ſafety and preeſervation of the</hi> Government, <hi>under which we ſo happily Live, wherein the Publique Good of theſe Kingdoms doth ſo eminently conſiſt) by their hearty and loyal endeavours to diſcover all ſuch like Notorious</hi> Criminals, <hi>and to bring them unto condign Puniſhment.</hi>
+               </p>
+               <p>
+                  <hi>It were greatly to be wiſht, that every of theſe</hi> Monſtrous Vil<g ref="char:EOLhyphen"/>lains <hi>had not thus eſcaped the</hi> Sword <hi>of the</hi> Magiſtrate: <hi>But ſee<g ref="char:EOLhyphen"/>ing the Devil hath thus ſecured ſeveral of them from a preſent Ap<g ref="char:EOLhyphen"/>prehenſion or Execution, as his Helliſh</hi> Favourites, <hi>thereby to further them in all ſuch Wickedneſſes, as may make them fully Ripe for a more heavy Condemnation hereafter: (without Repentance) it is not to be doubted, but the All-ſeeing Eye and Hand of the moſt Juſt and Righteous God, will ſooner or later reach them. <g ref="char:V">Ʋ</g>nto Whom</hi> Vengeance belongs, <hi>and who will Recompenence it them in his own due time.</hi>
+               </p>
+            </argument>
+            <head type="sub">
+               <pb n="31" facs="tcp:56976:16"/>The Account is as follows.</head>
+            <p>THe <hi>Queen Dowager's Butler</hi> was Murdered in <hi>Anno</hi> 1689. by keeping company with <hi>Sarah Hodges</hi> living in the Hamlets of <hi>Wappen-Stepney,</hi> (at the Sign of the <hi>Bird in Hand</hi>) who main<g ref="char:EOLhyphen"/>tained a (reputed) <hi>Bawdy-Houſe.</hi> Several great <hi>Evidences</hi> were produced in order to her <hi>Conviction,</hi> but all ineffectual.</p>
+            <p>A little after, it hapned one night that the Neighbours ob<g ref="char:EOLhyphen"/>ſerved the ſaid <hi>Sarah Hodges</hi>'s Maid frequently ſent out upon Errands, and this till Ten or Eleven a Clock at night. The next morning the doors being faſt, ſeveral Neighbours knock'd, but no perſon opening, at laſt they found the door open, and ſearched the low room narrowly, but could diſcover nothing. But going up one pair of Stairs, into the fore-Chamber, a ſad and lamentable <hi>Spectacle</hi> preſented it ſelf. A Young Woman was found in bed having her Throat Cut: On the floor of the ſame Chamber the Servant-Maid of the Houſe lay with her Throat cut alſo. In the back Chamber of the ſame floor, the Miſtriſs of the Houſe (the aforeſaid <hi>Sarah Hodges</hi>) was found in bed with her Throat Cut alſo; and both her Ears ſlit, to take out her gold Ear-rings. In this dreadful manner all <hi>Three</hi> lay waltering in their blood, and the Houſe was found rifled.</p>
+            <p>Not long after, another Woman in <hi>Goodmans-fields,</hi> that kept a reputed <hi>Bawdy-Houſe,</hi> had her Throat cut alſo, by one <hi>Selbey,</hi> who was afterwards Executed near the ſame Houſe. And at the ſame time another Womans Throat was cut in the ſaid Houſe: but not being cut through the Windpipe, ſhe recovered, and diſ<g ref="char:EOLhyphen"/>covered the Murder. But who murdered the former Women, is not yet known.</p>
+            <p>But above all the <hi>Relations</hi> which have been given the World of matters of this nature, although ſome of them have been very ſtrange and ſurpriſing, yet this following Account ſeems to all who have heard thereof, moſt Wonderful and Amazing; Giving all of us great ground to conclude that many horrid Murders have been perpetrated from time to time in this place; Inſomuch, that it may not unfitly be called — <hi>The Strange Diſcovery of</hi> a <hi>New and bloody</hi> SLAUGHTER-HOUSE. Which is as followeth.</p>
+            <p>In the year 1692. Mr <hi>Anthony Miles</hi> (one of the Society being then Conſtable, and walking his rounds, it hapned that in <hi>Roſemany-Lane</hi> near <hi>Eaſt-Smithfield,</hi> at the Houſe of one Miſtriſs <hi>Smith</hi> [who was known to entertain Whores and Theives] he heard a great <hi>Re<g ref="char:EOLhyphen"/>vel
+<pb n="32" facs="tcp:56976:17"/>rout,</hi> with many <hi>Oaths</hi> and <hi>Curſings,</hi> and making a ſtand to hearken and inform himſelf, he heard ſeveral Perſons in that Houſe thruſting one another down Stairs, (who ſeem'd to him to be naked by the found of their feet) One of them ſuddenly un<g ref="char:EOLhyphen"/>bolted the door, whereupon the ſaid Conſtable thruſt in his Staff to keep it open, and entring in, with diverſe Perſons attending him, he found <hi>three naked Men,</hi> and <hi>three naked Women</hi> (who had been Dancing and Revelling) whom they apprehended and carryed to the <hi>Watch houſe,</hi> and in the morning they were com<g ref="char:EOLhyphen"/>mitted to <hi>Bridewel</hi> by <hi>Juſtice <g ref="char:V">Ʋ</g>nderhill,</hi> and were whipt, with one more, who came to vindicate them.</p>
+            <p>About three months after this, the ſaid <hi>Conſtable</hi> (walking again the ſame Rounds, and) paſſing by this Houſe, heard a great outcry about— of the clock in the night, with much <hi>Swear<g ref="char:EOLhyphen"/>ing</hi> and <hi>Curſing,</hi> who begg'd of one another, that <hi>for the Lord's ſake they would all be quiet.</hi> The Conſtable thereupon waited without, till they at laſt made a loud Outcry of <hi>Murder! Murder! Murder!</hi> Whereupon, he Commanded the door to be opened: They re<g ref="char:EOLhyphen"/>fuſing, the ſaid <hi>Conſtable</hi> forced it open (with others of the Watch attending) in the ground-room he could make no diſcovery, but going up the Stairs, he obſerved they were ſprinkled with <hi>blood;</hi> and forcing his way into the Chamber (of the ſecond floor) after he had broke open the door, he found <hi>blood</hi> in a Bowl, and al<g ref="char:EOLhyphen"/>ſo in a Chamber-pot, and a great quantity of <hi>blood</hi> lying in a hol<g ref="char:EOLhyphen"/>low place in the midſt of the floor, and <hi>Two Women</hi> in bed: No<g ref="char:EOLhyphen"/>thing would they confeſs, but pretended the blood came by a cut of one of their fingers: And going up into the <hi>Garaet,</hi> (the Con<g ref="char:EOLhyphen"/>ſtable obſerving thoſe Stairs were alſo ſprinkled and ſmear'd with <hi>blood</hi>) they found <hi>blood</hi> ſprinkled on the Ceiling and Walls, and the floor was ſo full of congealed <hi>blood,</hi> that it cover'd their ſoles, and ſquaſht under foot, as if they had been in an Old <hi>SLA<g ref="char:V">Ʋ</g>GHTER HO<g ref="char:V">Ʋ</g>SE</hi> that wanted cleanſing; being ſo ſlippry they could ſcarce ſtand [Which ſeems plainly to diſcover, that <hi>blood</hi> had been there for ſome conſideaable time, <hi>&amp;c.</hi>] Here they found <hi>Two young men</hi> upon a Bed in their Cloaths; and in the ſaid <hi>Garret</hi> there lay the Cloaths of another Man: <hi>viz.</hi> his Coat, Breeches, Doublet, Stockings, Shoes, Hat, Wig. Craver, but his Shirt was wanting.</p>
+            <p>The <hi>Conſtable</hi> and other <hi>Officers</hi> ſearched the Houſe from the top of the tiles and downward, and in every place and room, even to the bottom, three ſeveral times, and could make no further diſcovery, more then what was ſo Notorious, Obvious, and Tremendious to behold: Nor would any of the Perſons in
+<pb n="33" facs="tcp:56976:17"/>the Houſe Confeſs any thing (more than a cut of one of their fingers) whereupon they were committed to the <hi>Watch-houſe,</hi> and a Gaurd ſet on the Houſe, and the next morning brought before <hi>Juſtice Conſtable</hi> and examined, but confeſſed nothing, and he ſent them to <hi>Bridewell,</hi> where they were Whipt ſeverely, and de<g ref="char:EOLhyphen"/>tained for ſometime, till further <hi>Evidence</hi> came in againſt them: At laſt none Appearing, they were diſcharged.</p>
+            <p>God grant theſe <hi>Extraordinary Providences</hi> may be ſeriouſly attended, as (no doubt it is intended to be for) a Loud <hi>Warning from Heaven</hi> to the <hi>Licentious Youth</hi> in and about <hi>This City,</hi> (more eſpecially) to take heed what <hi>Company</hi> they frequent, as being no ſmall <hi>Temptation</hi> to draw forth their Corruption, and to betray them into the moſt dangerous Snares of <hi>Death</hi> and <hi>Hell.</hi> To pre<g ref="char:EOLhyphen"/>vent which, Let every good Chriſtian Pray (with <hi>David</hi>) — LORD <hi>Order and direct my Steps in thy Paths, that I may run all the ways of thy Precepts with delight; then ſhall I not be a<g ref="char:EOLhyphen"/>ſhamed when I ſhall have reſpect to All thy Commandements.</hi> And we make no ſmall <hi>Progreſs</hi> herein, when we maintain ſuch a con<g ref="char:EOLhyphen"/>ſtant <hi>fear</hi> and <hi>jealouſie</hi> over our own <hi>Hearts</hi> and <hi>Lives,</hi> as makes us daily (with that Bleſſed Man) to have our recourſe to God by prayer.</p>
+            <p>
+               <hi>Hold thou up my Steps in thy Paths, that my feet ſlide not; And when we fall, LORD! ſeek thy Servant that is gone A<g ref="char:EOLhyphen"/>ſtray, for I have not forgotten Thy Commandements.</hi>
+            </p>
+         </div>
+         <div type="list_of_names">
+            <pb n="34" facs="tcp:56976:18"/>
+            <head>A Black Roll,</head>
+            <p>Containing the real (or reputed) Names and Crimes of ſeveral <hi>Hundred</hi> Per<g ref="char:EOLhyphen"/>ſons that have been Proſecuted by the <hi>Society,</hi> this laſt Year, for <hi>Whoring, Drunkenneſs, Thefts, Sabbath-breaking,</hi> &amp;c. as Delivered unto Them by their <hi>Clerk:</hi> And been publiſhed for the ſatisfaction of many who have been deſirous to know what progreſs we have made in this <hi>Reformation of Manners.</hi>
+            </p>
+            <list>
+               <head>Some or theſe Perſons have kept Bawdy-Houſes; ſome of whom have been In<g ref="char:EOLhyphen"/>dicted and ſome Fined.</head>
+               <item>
+                  <hi>Mary Adams</hi>
+               </item>
+               <item>
+                  <hi>Mary Arrundell</hi>
+               </item>
+               <item>
+                  <hi>Sasah Allin</hi>
+               </item>
+               <item>
+                  <hi>Mary Abbitt</hi>
+               </item>
+               <item>
+                  <hi>Mary Anderſon</hi>
+               </item>
+               <item>
+                  <hi>Jane Armſtrong</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth-Avem</hi>
+               </item>
+               <item>
+                  <hi>James and Sarah Ayres</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Ealy</hi>
+               </item>
+               <item>
+                  <hi>Elixabeth Earle</hi>
+               </item>
+               <item>
+                  <hi>Margaret Earen</hi>
+               </item>
+               <item>
+                  <hi>Mary Ev'nall</hi>
+               </item>
+               <item>
+                  <hi>Amey Eliot</hi>
+               </item>
+               <item>
+                  <hi>Sarah Edwards</hi>
+               </item>
+               <item>
+                  <hi>Alice Jones</hi>
+               </item>
+               <item>
+                  <hi>Chriſtian King</hi>
+               </item>
+               <item>
+                  <hi>Mary <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Ann <gap reason="illegible" resp="#PDCC" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </hi>
+               </item>
+               <item>
+                  <hi>Charity Squiſh</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Shift</hi>
+               </item>
+               <item>
+                  <hi>Mary Smith</hi>
+               </item>
+               <item>
+                  <hi>Rebecca Trimmer</hi>
+               </item>
+               <item>
+                  <hi>Mary Thorogood</hi>
+               </item>
+               <item>
+                  <hi>Jane Winchcomb</hi>
+               </item>
+               <item>
+                  <hi>Sarah Whitaker</hi>
+               </item>
+               <item>
+                  <hi>Mary Wilden</hi>
+               </item>
+               <item>
+                  <hi>Elizabeti Ealy</hi>
+               </item>
+               <item>
+                  <hi>Thousas Bowater</hi>
+               </item>
+               <item>
+                  <hi>Tho. and Sarah Burton</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Brown</hi>
+               </item>
+               <item>
+                  <hi>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ane Brickſteck</hi>
+               </item>
+               <item>
+                  <hi>Henry Body</hi>
+               </item>
+               <item>
+                  <hi>Mrrtha Blefford</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Buſhell</hi>
+               </item>
+               <item>
+                  <hi>Ann Bradbery</hi>
+               </item>
+               <item>
+                  <hi>Ann Brewrick</hi>
+               </item>
+               <item>
+                  <hi>Mary Bone</hi>
+               </item>
+               <item>
+                  <hi>Mary Banfield</hi>
+               </item>
+               <item>
+                  <hi>Joan Horſnaile</hi>
+               </item>
+               <item>
+                  <hi>Mary Hughes</hi>
+               </item>
+               <item>
+                  <hi>Mary Harriſſen</hi>
+               </item>
+               <item>
+                  <hi>Dorothy Howell</hi>
+               </item>
+               <item>
+                  <hi>Elizabeih Faugh</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Jones</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth King</hi>
+               </item>
+               <item>
+                  <hi>Suſanna Lewis</hi>
+               </item>
+               <item>
+                  <hi>Sarah Moor</hi>
+               </item>
+               <item>
+                  <hi>Samuell Parker</hi>
+               </item>
+               <item>
+                  <hi>John &amp; Mary Packer</hi>
+               </item>
+               <item>
+                  <hi>Mary Quarles</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Raice</hi>
+               </item>
+               <item>
+                  <hi>John &amp; Sarah Rigway</hi>
+               </item>
+               <item>
+                  <hi>Alice Sprinkfield</hi>
+               </item>
+               <item>
+                  <hi>Suſanna Stanley</hi>
+               </item>
+               <item>
+                  <hi>Sarah Scoot</hi>
+               </item>
+               <item>
+                  <hi>Margaret Seale</hi>
+               </item>
+               <item>
+                  <hi>Sarah Thompſon</hi>
+               </item>
+               <item>
+                  <hi>Richard and Mary Thomas</hi>
+               </item>
+               <item>
+                  <hi>Alice Wilſon</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Wheler</hi>
+               </item>
+               <item>
+                  <hi>Hannah Ware</hi>
+               </item>
+               <item>
+                  <hi>John and Eliz. Hedger</hi>
+               </item>
+               <item>
+                  <hi>Margaret Tillara</hi>
+               </item>
+               <item>
+                  <hi>George Codd</hi>
+               </item>
+               <item>
+                  <hi>Bridget Cotion</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Chettham</hi>
+               </item>
+               <item>
+                  <hi>Mary Cole</hi>
+               </item>
+               <item>
+                  <hi>Mary Copinger</hi>
+               </item>
+               <item>
+                  <hi>Mary Chetham</hi>
+               </item>
+               <item>
+                  <hi>Ann Chandler</hi>
+               </item>
+               <item>
+                  <hi>John and Ann Coleman</hi>
+               </item>
+               <item>
+                  <hi>Mary Dawſon</hi>
+               </item>
+               <item>
+                  <hi>William Harper</hi>
+               </item>
+               <item>
+                  <hi>John &amp; Elizabeth Hedges</hi>
+               </item>
+               <item>
+                  <hi>Mary Hill</hi>
+               </item>
+               <item>
+                  <hi>Ann Holbrook</hi>
+               </item>
+               <item>
+                  <hi>Dorothy Howes</hi>
+               </item>
+               <item>
+                  <hi>Gatherine Flower</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Johnſon</hi>
+               </item>
+               <item>
+                  <hi>Sarah Kea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Leek</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Michel.</hi>
+               </item>
+               <item>
+                  <hi>Tho. and Jane Pettit</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Fartree</hi>
+               </item>
+               <item>
+                  <hi>Ann Raye</hi>
+               </item>
+               <item>
+                  <hi>Temperance Reed</hi>
+               </item>
+               <item>
+                  <hi>Mary Reves</hi>
+               </item>
+               <item>
+                  <hi>William and Eliz. Smith</hi>
+               </item>
+               <item>
+                  <hi>Suſanna Stuobs</hi>
+               </item>
+               <item>
+                  <hi>Millicent S<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ll</hi>
+               </item>
+               <item>
+                  <hi>Mary Swan</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Watts</hi>
+               </item>
+               <item>
+                  <hi>Mary Vincent</hi>
+               </item>
+               <item>
+                  <hi>Ann Watte</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth White</hi>
+               </item>
+               <item>
+                  <hi>Mary White</hi>
+               </item>
+               <item>
+                  <hi>John and Mary Pannell</hi>
+               </item>
+            </list>
+            <list>
+               <head>And ſome C<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed, <hi>Viz</hi>
+               </head>
+               <item>
+                  <hi>Dorithy Furlon</hi>
+               </item>
+               <item>
+                  <hi>John and Judith Froſt</hi>
+               </item>
+               <item>
+                  <hi>Mary Fairfax</hi>
+               </item>
+               <item>
+                  <hi>Thomas &amp; Alice Gibbons</hi>
+               </item>
+               <item>
+                  <hi>William Groves</hi>
+               </item>
+               <item>
+                  <hi>Sarah Gorry</hi>
+               </item>
+               <item>
+                  <hi>Mary Gayriſh</hi>
+               </item>
+               <item>
+                  <hi>Mary Garret</hi>
+               </item>
+               <item>
+                  <hi>John Durnhil</hi>
+               </item>
+               <item>
+                  <hi>John Hix Alias Hurſt</hi>
+               </item>
+               <item>
+                  <hi>Many Harris</hi>
+               </item>
+               <item>
+                  <hi>Mary Hall</hi>
+               </item>
+               <item>
+                  <hi>John and Mary Hind</hi>
+               </item>
+               <item>
+                  <hi>Geo. and Mary Harrel</hi>
+               </item>
+               <item>
+                  <hi>Mary Jones</hi>
+               </item>
+               <item>
+                  <hi>Peter &amp; Elizabeth King</hi>
+               </item>
+               <item>
+                  <hi>Mary Knight</hi>
+               </item>
+               <item>
+                  <hi>John &amp; Elizabeth Long</hi>
+               </item>
+               <item>
+                  <hi>Mary Moor</hi>
+               </item>
+               <item>
+                  <hi>Mary Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mer</hi>
+               </item>
+               <item>
+                  <hi>Ann Mack</hi>
+               </item>
+               <item>
+                  <hi>Alice Randoll</hi>
+               </item>
+               <item>
+                  <hi>Sarah Roſe</hi>
+               </item>
+               <item>
+                  <hi>Mary Randford</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Star</hi>
+               </item>
+               <item>
+                  <hi>Suſan Spritgfield</hi>
+               </item>
+               <item>
+                  <hi>Arrundel Turner</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Topta</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Taylor</hi>
+               </item>
+               <item>
+                  <hi>Dorothy Williams</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Williams</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Whores</hi>
+               </item>
+               <item>
+                  <hi>Ann Winchcomb</hi>
+               </item>
+               <item>
+                  <hi>James Delafoy</hi>
+               </item>
+            </list>
+            <list>
+               <pb n="35" facs="tcp:56976:18"/>
+               <head>Night Walkers and Plyers in Bawdy Houſes, all or moſt of whom have been Whipt in <hi>Bridewell</hi> this Year.</head>
+               <item>
+                  <hi>Elizabeth Bates</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Biſſel</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Brown</hi>
+               </item>
+               <item>
+                  <hi>Lidia Buckler</hi>
+               </item>
+               <item>
+                  <hi>Martha Bolt</hi>
+               </item>
+               <item>
+                  <hi>Mary Carr</hi>
+               </item>
+               <item>
+                  <hi>Mary Carroll</hi>
+               </item>
+               <item>
+                  <hi>Jane Deſow</hi>
+               </item>
+               <item>
+                  <hi>Suſann<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Edwards</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Elliot</hi>
+               </item>
+               <item>
+                  <hi>Dorothy Flander</hi>
+               </item>
+               <item>
+                  <hi>Ann Goulding</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Harris</hi>
+               </item>
+               <item>
+                  <hi>Sarah Hilliard</hi>
+               </item>
+               <item>
+                  <hi>Margaret He<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ger</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Hedger</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Heath</hi>
+               </item>
+               <item>
+                  <hi>Ann Kettle</hi>
+               </item>
+               <item>
+                  <hi>Mary Kempe</hi>
+               </item>
+               <item>
+                  <hi>Katherine Lewis</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Mills</hi>
+               </item>
+               <item>
+                  <hi>Jane Peters</hi>
+               </item>
+               <item>
+                  <hi>Ann Preſton</hi>
+               </item>
+               <item>
+                  <hi>Ann Palmer</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Sammon</hi>
+               </item>
+               <item>
+                  <hi>Mary Turner</hi>
+               </item>
+               <item>
+                  <hi>Martha Tucker</hi>
+               </item>
+               <item>
+                  <hi>Ann Vickar</hi>
+               </item>
+               <item>
+                  <hi>Catherine Chilver</hi>
+               </item>
+               <item>
+                  <hi>Hannah Ribbey</hi>
+               </item>
+               <item>
+                  <hi>Mary White</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Thome</hi>
+               </item>
+               <item>
+                  <hi>Hannah Powell</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Lee</hi>
+               </item>
+               <item>
+                  <hi>Mary Madſon</hi>
+               </item>
+               <item>
+                  <hi>Jane Glover</hi>
+               </item>
+               <item>
+                  <hi>Mary Jenkins</hi>
+               </item>
+               <item>
+                  <hi>Suſanna Yates</hi>
+               </item>
+               <item>
+                  <hi>Jane Bayley</hi>
+               </item>
+               <item>
+                  <hi>Ann Bonuſs</hi>
+               </item>
+               <item>
+                  <hi>Mary Bennet</hi>
+               </item>
+               <item>
+                  <hi>Mary Baker</hi>
+               </item>
+               <item>
+                  <hi>Katherine Dodd</hi>
+               </item>
+               <item>
+                  <hi>Mary Dupper</hi>
+               </item>
+               <item>
+                  <hi>Martha Davis</hi>
+               </item>
+               <item>
+                  <hi>Mercy Dickenſon</hi>
+               </item>
+               <item>
+                  <hi>Jane Gloves</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Green</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Ginney</hi>
+               </item>
+               <item>
+                  <hi>Aun Harreſs</hi>
+               </item>
+               <item>
+                  <hi>Derothy Hall</hi>
+               </item>
+               <item>
+                  <hi>Marcha Hariſon</hi>
+               </item>
+               <item>
+                  <hi>Hannab Jackson</hi>
+               </item>
+               <item>
+                  <hi>Alice Jones</hi>
+               </item>
+               <item>
+                  <hi>Martha Morgan</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Meſſenger</hi>
+               </item>
+               <item>
+                  <hi>Ann Pearce</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Partre</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Poor</hi>
+               </item>
+               <item>
+                  <hi>Ann Sheldrick</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Smith</hi>
+               </item>
+               <item>
+                  <hi>Sarah Slaughter</hi>
+               </item>
+               <item>
+                  <hi>Mary Tanner</hi>
+               </item>
+               <item>
+                  <hi>Judith Trumbold</hi>
+               </item>
+               <item>
+                  <hi>Mary Trvelove</hi>
+               </item>
+               <item>
+                  <hi>Sarah <g ref="char:V">Ʋ</g>arrey</hi>
+               </item>
+               <item>
+                  <hi>Suſadna Wilſon</hi>
+               </item>
+               <item>
+                  <hi>Mary Weſt</hi>
+               </item>
+               <item>
+                  <hi>Mary Osborne</hi>
+               </item>
+               <item>
+                  <hi>Frances Haughting</hi>
+               </item>
+               <item>
+                  <hi>Frances Palmes</hi>
+               </item>
+               <item>
+                  <hi>Patience Webbes</hi>
+               </item>
+               <item>
+                  <hi>Mary Jeffreys</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Prince</hi>
+               </item>
+               <item>
+                  <hi>Alice Springfield</hi>
+               </item>
+               <item>
+                  <hi>— Phendal</hi>
+               </item>
+               <item>
+                  <hi>Mary Gibbs Alice Gibbs</hi>
+               </item>
+               <item>
+                  <hi>— Stanley</hi>
+               </item>
+               <item>
+                  <hi>Mary Peach</hi>
+               </item>
+               <item>
+                  <hi>Iſabel Good<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>in</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Bird</hi>
+               </item>
+               <item>
+                  <hi>Mary Haughton</hi>
+               </item>
+               <item>
+                  <hi>Alias Haughtry</hi>
+               </item>
+               <item>
+                  <hi>Thomys Newton</hi>
+               </item>
+               <item>
+                  <hi>John Stow</hi>
+               </item>
+               <item>
+                  <hi>Ann Green</hi>
+               </item>
+               <item>
+                  <hi>Sarah Moon</hi>
+               </item>
+               <item>
+                  <hi>Alias Thompſon</hi>
+               </item>
+               <item>
+                  <hi>Mary Downing</hi>
+               </item>
+               <item>
+                  <hi>Katherine Lewis</hi>
+               </item>
+               <item>
+                  <hi>Wid. Wing</hi>
+               </item>
+               <item>
+                  <hi>Tho. Gibbon</hi>
+               </item>
+               <item>
+                  <hi>Ann Morris</hi>
+               </item>
+               <item>
+                  <hi>Alias Haber</hi>
+               </item>
+               <item>
+                  <hi>John Lockyer</hi>
+               </item>
+               <item>
+                  <hi>Edward Newby</hi>
+               </item>
+               <item>
+                  <hi>— Wynn</hi>
+               </item>
+               <item>
+                  <hi>Margaret Tylard</hi>
+               </item>
+               <item>
+                  <hi>Mary Kinde</hi>
+               </item>
+               <item>
+                  <hi>Mrs Oram</hi>
+               </item>
+               <item>
+                  <hi>Mary Clark</hi>
+               </item>
+               <item>
+                  <hi>— Gatton</hi>
+               </item>
+               <item>
+                  <hi>Mary Raughby</hi>
+               </item>
+               <item>
+                  <hi>Alias Haughton</hi>
+               </item>
+               <item>
+                  <hi>Alice Gobbons</hi>
+               </item>
+               <item>
+                  <hi>William Monday</hi>
+               </item>
+               <item>
+                  <hi>George Peter</hi>
+               </item>
+               <item>
+                  <hi>Katherine Moor</hi>
+               </item>
+               <item>
+                  <hi>Ann Worball</hi>
+               </item>
+               <item>
+                  <hi>Mary Long</hi>
+               </item>
+               <item>
+                  <hi>Mary Summers</hi>
+               </item>
+               <item>
+                  <hi>Ann Worrel</hi>
+               </item>
+               <item>
+                  <hi>Iſabel Perry</hi>
+               </item>
+               <item>
+                  <hi>Alice Springfield</hi>
+               </item>
+               <item>
+                  <hi>Hugh Wilkinſou</hi>
+               </item>
+               <item>
+                  <hi>Lucy Michel</hi>
+               </item>
+               <item>
+                  <hi>Mrs. Arran</hi>
+               </item>
+               <item>
+                  <hi>Mary Tauner</hi>
+               </item>
+               <item>
+                  <hi>Mary D.</hi>
+               </item>
+               <item>
+                  <hi>George Peacock</hi>
+               </item>
+               <item>
+                  <hi>Samuel Jones</hi>
+               </item>
+               <item>
+                  <hi>Ann Jones</hi>
+               </item>
+               <item>
+                  <hi>Ann Newman</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Pierce</hi>
+               </item>
+               <item>
+                  <hi>Sarah Jefferis</hi>
+               </item>
+               <item>
+                  <hi>Hugh Wilkinſon</hi>
+               </item>
+               <item>
+                  <hi>Ann Londay</hi>
+               </item>
+               <item>
+                  <hi>Jobe Laud</hi>
+               </item>
+               <item>
+                  <hi>Margaret Smith</hi>
+               </item>
+               <item>
+                  <hi>Hanna Lewis.</hi>
+               </item>
+               <item>
+                  <hi>Ann Reed</hi>
+               </item>
+            </list>
+            <list>
+               <head>January 1612/3;</head>
+               <item>
+                  <hi>Sarah Ellis</hi>
+               </item>
+               <item>
+                  <hi>Wm. Griffeth</hi>
+               </item>
+               <item>
+                  <hi>Thomas Bowater</hi>
+               </item>
+               <item>
+                  <hi>Ann Worrel</hi>
+               </item>
+               <item>
+                  <hi>Martha Flitcher</hi>
+               </item>
+               <item>
+                  <hi>Mary White</hi>
+               </item>
+               <item>
+                  <hi>Johanna Playſhad</hi>
+               </item>
+               <item>
+                  <hi>Mary Osbourne</hi>
+               </item>
+               <item>
+                  <hi>Rainſhorow</hi>
+               </item>
+               <item>
+                  <hi>Mary Kempe</hi>
+               </item>
+               <item>
+                  <hi>Mary Stevens</hi>
+               </item>
+               <item>
+                  <hi>Mary Baker</hi>
+               </item>
+               <item>
+                  <hi>Mary Alderman</hi>
+               </item>
+               <item>
+                  <hi>Alice Fendal</hi>
+               </item>
+               <item>
+                  <hi>Mary Clark</hi>
+               </item>
+               <item>
+                  <hi>Ann Slaughter</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Gouge</hi>
+               </item>
+               <item>
+                  <hi>Mary Reed</hi>
+               </item>
+               <item>
+                  <hi>Rebecca Bowman</hi>
+               </item>
+               <item>
+                  <hi>Lucy Baſly</hi>
+               </item>
+               <item>
+                  <hi>Martha Griffen</hi>
+               </item>
+               <item>
+                  <hi>Rebecca Foſter</hi>
+               </item>
+               <item>
+                  <hi>Jane Bluit</hi>
+               </item>
+               <item>
+                  <hi>Elizabeth Prince</hi>
+               </item>
+               <item>
+                  <hi>Sarah Cook</hi>
+               </item>
+               <item>
+                  <hi>Sarah Lacy</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_note">
+            <pb facs="tcp:56976:19" rendition="simple:additions"/>
+            <list>
+               <head>Books lately Printed for <hi>John Dunton.</hi>
+               </head>
+               <item>THE Firſt Volume of the <hi>French Book of Martyrs,</hi> Publiſhed with her <hi>Maje<g ref="char:EOLhyphen"/>ſties Royal Priviledge:</hi> The <hi>Second Volume</hi> is already in the Preſs, and the <hi>Third</hi> and <hi>Fourth</hi> preparing for it, thoſe that expect any advantage by the Propo<g ref="char:EOLhyphen"/>ſals made concerning this <hi>Work,</hi> muſt ſend in there Subſcriptions by the 10th of next <hi>March,</hi> or otherwiſe 'twill he to late: Propoſals are to be had of the Under<g ref="char:EOLhyphen"/>taker, <hi>John Dunton,</hi> and of moſt Bookſellers in <hi>London</hi> and the Country.</item>
+               <item>
+                  <hi>Biſhop Barlow's Remains:</hi> Containing near an hundred diſtinct Subjects, <hi>Theolo<g ref="char:EOLhyphen"/>gical, Philoſophical, Hiſtorical,</hi> &amp;c. in Letters to ſeveral perſons of Honour and Quality. To which is added the Reſolution of many abſtruce points: As alſo directions to a Young Divine for his Study of Divinity, and <hi>Choice of his Library,</hi> Publiſhed from his Lordſhips Original Papers.</item>
+               <item>
+                  <hi>The Orders of the Helvetian Church,</hi> &amp;c. Tranſlated into Engliſh, by <hi>John Conrad Werndly,</hi> Miniſter of <hi>Wrasbury,</hi> and recommended to the Publick by Six <hi>Re<g ref="char:EOLhyphen"/>verend Biſhops.</hi>
+               </item>
+               <item>
+                  <hi>The Tragedies of Sin,</hi> by <hi>Stephen Jay,</hi> late <hi>Rector of Chinner.</hi>
+               </item>
+               <item>
+                  <hi>Caſuiſtical Morning Exerciſes,</hi> the 4th Volume, by ſeveral Miniſters in and about <hi>London.</hi>
+               </item>
+               <item>
+                  <hi>Heads of agreement</hi> aſſented to by the United Miniſters.</item>
+               <item>
+                  <hi>The Life</hi> of the Reverend Mr <hi>Brand,</hi> by D. <hi>Samuel Anneſley.</hi>
+               </item>
+               <item>Practical Diſcourſes on Sickneſs and Recovery, by <hi>Timothy Rogers</hi> M. A.</item>
+               <item>The Life and Death of Mr. <hi>Eliot,</hi> the Firſt Preacher of the Goſpel to the <hi>In<g ref="char:EOLhyphen"/>dians</hi> in <hi>America,</hi> the 3d Edition.</item>
+               <item>An earneſt Call to Family Reformation. <hi>Price</hi> 6 <hi>d.</hi> or 50 of them for 10 <hi>s.</hi> to thoſe Gentlemen that bye them to Diſperſe.</item>
+               <item>A Narrative of the extraordinary Cure of Mrs. <hi>Savages</hi> crocked Hand, Publiſhed by conſent of her Husband, and atteſted by him and ſeveral other credible Witneſſes.</item>
+               <item>Funeral Diſcourſes in ſeveral Texts, by John Shower.</item>
+            </list>
+            <list>
+               <head>Books in the Preſs, and deſigned for it, printed for <hi>John Dunton.</hi>
+               </head>
+               <item>THE Lord <hi>Faulklands</hi> Works, Secretary of State to King <hi>Charles</hi> I.</item>
+               <item>Mr. <hi>Will. Leiburns</hi> new Mathematical Tracts in Follo.</item>
+               <item>A continuation of Morning Exerciſe, Queſtions and Caſes of Conſcience the Second Edition.</item>
+               <item>
+                  <hi>A Diſcourſe of the Trinity,</hi> by <hi>John Mauduit. Miniſter at</hi> Tooring.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
